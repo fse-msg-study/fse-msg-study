@@ -1,0 +1,20 @@
+\begin{table}[htbp]
+\caption{Metrics and pattern ratio of model removing each component}
+\begin{tabular}{cc|cccc}
+\toprule
+\multicolumn{2}{c|}{Model}&BLEU&ROUGE-L&METEOR&Pattern Ratio\\
+\midrule
+\multirow{2}{*}{NMT}&Original&14.84&17.60&11.06&86.93\\
+~&Attention mechanism&13.66&16.24&10.09&91.37\\
+\midrule
+\multirow{3}{*}{PtrGNCMsg}&Original&14.84&18.50&10.97&87.85\\
+~&Attention mechanism&13.81&16.67&9.81&90.99\\
+~&Copy mechanism&13.25&15.57&9.16&83.94\\
+\midrule
+\multirow{4}{*}{CODISUM}&Original&16.55&19.73&12.83&91.69\\
+~&Attention mechanism&15.93&18.88&12.30&93.50\\
+~&Copy mechanism&16.29&19.42&12.79&89.35\\
+~&Anonymization&16.03&19.38&12.20&88.92\\
+\bottomrule
+\end{tabular}
+\end{table}

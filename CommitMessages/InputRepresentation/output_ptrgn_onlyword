@@ -1,0 +1,7661 @@
+remove unused imports
+fix the build
+fix a bug in 😝
+add 😝 to 😝
+add unit test
+don t show 😝 for 😝 users
+fix npe in 😝
+fix javadoc for 😝
+fix a test
+fix a typo
+remove 😝 from 😝
+fix 😝 😝
+add new setting to 😝
+fix 😝 😝
+remove debug print
+fix 😝 😝
+fix 😝 😝
+remove obsolete todo
+fix assertion in 😝
+fix potential npe
+fix npe in onbackpressed
+fix bug in 😝
+remove unneeded 😝
+remove unused import
+fix possible npe
+propagate 😝 exceptions
+fix 😝 😝
+add 😝 to jbtable
+fix failing test
+fix viewpager 😝
+add afterclass method to 😝
+don t start selection on selection
+remove unused import
+add 😝 to 😝
+fix 😝 😝
+fix failing test
+fix npe in 😝
+add 😝 to 😝
+remove unused code
+fix a bug in rebase
+fix potential npe
+add support for spring 😝
+fix error message
+add unit test
+fix a bug in 😝
+fix a problem where the machine would not be read
+fix memory leak in 😝
+remove 😝 😝
+fix typo in 😝
+fix bug in 😝
+remove unused import
+fix error message
+fix javadoc errors
+fix 😝 tests
+fix 😝 😝
+add 😝 to 😝
+do not merge fix systemui tile tile
+add 😝 to streetedge
+fix bug in 😝
+add player 😝
+fix a bug in view 😝
+add some comments
+add test for null check
+fix failing test
+fix memory leak
+add a todo comment
+add 😝 😝
+fix a bug in 😝
+remove unused imports
+remove unused code
+add 😝 method
+make 😝 public
+fix license header
+do not create 😝 for 😝
+fix a bug in 😝
+remove unused constructor
+remove unused code
+fix crash in 😝
+fix javadoc typo
+remove unused code
+don t show menu button for 😝
+don t use 😝 😝
+remove unnecessary call to 😝
+add 😝 to 😝
+fix a bug in 😝
+fix failing tests
+fix npe in 😝
+remove finish from 😝
+fix 😝 😝
+add 😝 to 😝
+remove unused code
+making 😝 package private
+remove unused code
+remove system out
+add 😝 to 😝
+eliminate unused code
+do not show 😝 for 😝
+fix crash in fileactivity
+fix typo in javadoc
+fix 😝 😝
+fix 😝 😝
+fix a bug in 😝
+don t use 😝 for 😝
+fix 😝 😝
+fix failing test
+remove unnecessary call
+don t show 😝 when 😝
+fix failing test
+remove unused import
+don t process 😝 in tests
+fix bug in 😝
+smallfix incorporated pr comment
+make 😝 abstract
+fix 😝 😝
+add 😝 to 😝
+add 😝 to 😝
+fix potential npe
+remove dead assignment
+fix 😝 😝
+fix failing tests
+fix failing tests
+add todo for 😝
+don t show 😝 buttons if you follow label
+fix compile error
+add 😝 findviewbyid
+fix npe in 😝
+fix potential deadlock
+fix checkstyle errors
+fix 😝 😝
+replace stringbuffer with stringbuilder
+add javadoc for operation 😝
+moving 😝 forward before 😝
+make 😝 final
+remove unused method
+don t show 😝 if follow button follow
+fix bug in 😝
+fix 😝 😝
+release wakelock after 😝
+fix 😝 😝
+fix 😝 😝
+don t throw exception when 😝 😝
+fix 😝 😝
+add null checking to 😝
+use a blockingqueue thread name in 😝
+fix 😝 😝
+improved error message
+add 😝 method
+fix a bug in 😝
+remove deleteonexit from 😝
+wrap unexpected exception
+remove 😝 from 😝
+add 😝 method to 😝
+remove debug print
+add 😝 to 😝
+remove dead code
+don t force release when 😝
+fix requestlayout 😝
+remove unused import
+don t reset 😝 😝
+fix a bug in 😝
+fix bug in 😝
+don t show 😝 on 😝
+fix failing tests
+increased version number
+add getter for 😝
+set 😝 timeout in 😝
+add a todo
+fix checkstyle issue
+remove static from 😝
+fix merge conflict
+rename 😝 to 😝
+remove obsolete cast
+remove unused code
+fix 😝 😝
+make 😝 final
+remove tostring method
+fix typo in javadoc
+fix possible npe
+fix typo in javadoc
+incorporated pr comment
+remove unnecessary 😝
+stop 😝 after shutdown
+improve error message
+fix test failures
+fix failing tests
+add missing headers
+add a constant for the 😝
+fix 😝 😝
+add a lockpatternutils 😝 method
+fix test cases
+remove unused imports
+fix typo in javadoc
+fix bug in 😝
+fix javadoc errors
+fix npe in 😝
+incorporated pr comment
+fix quality flaw
+add xml validation for 😝 subsystem
+add 😝 to 😝
+remove unused import
+fix 😝 😝
+fix typo in javadoc
+remove unused code
+fix a bug in 😝
+add 😝 to 😝
+don t finish refresh icon
+fix javadoc for 😝
+remove unused code
+fix 😝 😝
+fix crash in 😝
+add missing gwtincompatible
+remove debug print
+don t return lambda for lambda lambda
+fix possible npe
+fix bug in 😝
+remove unused import
+fix 😝 😝
+add 😝 compareto
+fix a bug in 😝
+fix bug in 😝
+remove system assertionerror
+fix typo in 😝
+remove debug output
+fix a potential race condition in 😝
+remove unused method
+fix npe in 😝
+add some comments
+add missing headers
+remove final modifier from 😝
+😝 highlighting highlighting
+fix npe in 😝
+fix a bug in numberpicker
+smallfix remove explicit type argument in 😝
+remove unused code
+fix bug in 😝
+remove unused constant
+fix typos in javadoc
+do not create 😝
+fix 😝 😝
+fix generics problems
+fix npe in 😝
+fix failing test
+add some comments
+remove unused count
+fix bug in 😝
+fix crash in 😝
+fix a bug where the 😝 channel wasn t closed
+remove debug output
+smallfix incorporated pr comment
+add a comment
+add deprecation reason to 😝
+remove unused code
+add assertion message
+fix 😝 😝
+add javadoc for 😝
+fix checkstyle errors
+add tostring to 😝
+fix checkstyle issue
+fix failing test
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix potential npe
+fix javadoc typo
+add 😝 to 😝
+fix typo in javadoc
+fix 😝 😝
+fix npe in 😝
+change 😝 to be consistent
+add a test
+catch 😝 exception thrown
+fix typo in 😝
+remove unused import
+fix a bug where the notification wasn t called properly
+fix potential deadlock in 😝
+fix npe in 😝
+fix failing tests
+fix potential npe
+fix npe in 😝
+don t use deprecated 😝
+fix potential npe
+do not create new 😝 😝
+fix 😝 😝
+fix 😝 bug
+fix 😝 😝
+add 😝 😝
+fix javadoc references
+add getter for 😝
+remove redundant hashset
+fix merge error
+fix log message
+add 😝 to 😝
+add 😝 to 😝
+fix a crash in 😝
+don t help options
+remove 😝 😝
+do not return super methods
+fix potential npe
+fix bug in 😝
+fix 😝 😝
+remove a todo
+fix 😝 error
+fix problem with 😝 😝
+add javadoc for 😝
+add closeable to examples
+don t show 😝 for 😝
+fix 😝 😝
+fix npe in 😝
+fix npe in glm
+remove unused constant
+fix 😝 😝
+moved org bukkit vector to 😝
+fix potential npe
+fix npe in 😝
+use guava to 😝
+fix a bug in 😝
+ignore failing test
+fix failing tests
+fix unit test
+add a todo
+fix npe in 😝
+fix failing test
+add 😝 to 😝
+fix javadoc typo
+fix 😝 😝
+fix a test
+remove unnecessary 😝 call
+fix crash in view 😝
+fix a bug where the 😝 doesn t center
+fix npe in 😝
+add a comment
+fix problem with 😝
+remove unused code
+remove unused constant
+remove unused params
+fix 😝 😝
+add a note
+remove debug output
+make close close public
+add missing test
+remove unused code
+fix checkstyle error
+add 😝 😝
+fix 😝 😝
+add constructor to getdata 😝
+fix bug in frame
+fix 😝 junit
+remove redundant test
+fix javadoc typo
+add serialversionuid to number of 😝
+remove system out
+remove unused import
+fix possible deadlock
+make 😝 final
+add a todo comment
+remove unused method
+add getter for 😝
+do not create source for 😝
+fix checkstyle warning
+add helper method for 😝
+fix checkstyle problems
+fix a bug in 😝
+add seq to seq
+remove unused field
+add timeout to 😝
+remove 😝 😝
+remove 😝 logging
+add comment for 😝
+remove unneeded 😝
+fix a few typos in javadocs
+fix a bug with 😝 equals
+fix potential npe
+remove useless border
+fix bug in 😝
+fix potential npe
+remove unused code
+fix 😝 😝
+remove 😝 from 😝
+fix test case
+remove obsolete todo
+add 😝 method for 😝
+fix failing test
+fix a typo in 😝
+add way to 😝
+fix failing tests
+remove system out
+fix a typo
+fix 😝 😝
+fix findbugs warning
+log error message
+smallfix incorporated pr comment
+fix javadoc for 😝
+fix crash when 😝 😝
+fix unit test
+fix failing test
+fix exception message
+fix a bug in 😝
+fix bug in 😝
+remove unused code
+replace assertion with assertion
+add tostring to 😝
+fix failing test
+don t use 😝 layers for 😝
+fix bug in 😝
+replace cr with spaces
+fix javadoc typos
+fix relationship 😝
+handle empty strings
+fix bug in 😝
+remove unused application
+fix 😝 😝
+fix 😝 😝
+propagate stack trace to 😝
+fix typos in comments
+remove unnecessary synchronization
+remove main method
+fix javadoc warning
+fix crash in 😝
+fix a bug where 😝 😝 t editing the bar
+fix checkstyle errors
+remove unused code
+fix potential npe
+fix 😝 😝
+don t 😝 😝 when 😝
+do not show non visible 😝
+add hint for findbugs
+fix javadoc for 😝
+add 😝 😝
+make 😝 😝
+fix a compilation error
+fix javadoc typo
+fix 😝 in 😝
+remove old methods
+fix failing test
+remove 😝 from 😝
+fix 😝 calculation
+remove unused imports
+fix bug in 😝
+fix compiler warning
+fix requestlayout 😝
+fix test cases
+remove unused imports
+add 😝 to 😝
+remove unnecessary catch block
+fix npe in 😝
+fix potential npe
+add 😝 to 😝
+fix cs error
+add comments to 😝
+fix npe in 😝
+fix a typo in 😝
+remove debug output
+fix a bug in 😝
+remove 😝 😝
+made 😝 serializable
+fix potential npe
+fix npe in 😝
+remove obsolete comment
+fix 😝 error
+add attribute to rule
+remove unused code
+fix possible npe
+add 😝 to 😝
+don t create 😝 for 😝
+add 😝 to 😝
+fix 😝 in 😝
+remove unused getter
+throw 😝 exception if authentication is null
+add 😝 to 😝
+fix unit test
+fix 😝 😝
+make 😝 public
+fix npe in 😝
+fix npe in 😝
+don t use 😝 😝
+add todos to 😝
+fix failing test
+fix javadoc for 😝
+remove system out
+remove unused comment
+fix failing tests
+remove unused variable
+moved 😝 to org bukkit
+remove unnecessary border
+don t show 😝 for big 😝
+fix potential npe
+add a hashcode method
+make 😝 public
+add 😝 to 😝
+fix 😝 😝
+fix crash in 😝
+fix unchecked warning
+add 😝 to 😝
+remove unused code
+fix possible npe
+remove unused code
+fix potential npe
+fix failing test
+don t run 😝 if it s stopped
+add indexname to 😝
+remove unused method
+fix a bug with 😝 😝
+fix compilation errors
+fix a problem where the 😝 doesn t be 😝 correctly
+fix ide problems
+fix 😝 😝
+tweak 😝 😝
+fix failing tests
+add 😝 to 😝
+fix javadoc for 😝
+fix possible npe
+handle 😝 😝
+fix failing tests
+do not create color in unit test mode
+fix potential race condition in 😝
+add constructor to voldemortconfig
+fix a crash in 😝
+remove unused import
+fix checkstyle errors
+fix typo in javadoc
+remove unused code
+add getters to 😝
+remove unused method
+add constructor to 😝
+fix a bug in 😝
+fix npe in 😝
+remove unnecessary call to 😝
+fix possible npe
+add 😝 😝
+fix 😝 in 😝
+do not create inspection for introduce 😝
+don t create 😝 for 😝
+fix potential npe
+remove unused methods
+fix typo in 😝
+remove unused 😝
+fix a bug in 😝
+fix potential npe
+fix 😝 😝
+add support for 😝
+fix 😝 in 😝
+fix npe in 😝
+ignore exception in 😝
+fix bug in 😝
+remove unused constructor
+add missing override
+improve assertion message
+remove unused constant
+fix npe in 😝
+fix javadoc for 😝
+fix test data
+remove unused size
+fix crash in 😝
+add 😝 to 😝
+add test for 😝
+remove unused import
+fix 😝 😝
+remove unused code
+fix potential npe
+add 😝 to 😝
+remove unused imports
+rename 😝 to 😝
+fix javadoc errors
+fix failing tests
+do not update tree chooser
+remove unused method
+remove debug print
+fix bug in 😝
+fix 😝 😝
+remove unused code
+fix 😝 😝
+add support for 😝 dot
+remove unnecessary method
+fix test data
+updated license headers
+fix 😝 error
+fix failing test
+remove unused variable
+remove todo comment
+add done to 😝
+fix bug in 😝
+add test case for supports supports
+fix 😝 tostring
+fix npe in 😝
+ignore test for now
+fix failing test
+fix crash in 😝
+add nonnull annotation
+remove redundant methods
+fix 😝 stack overflow
+fix a typo
+fix failing test
+fix possible npe
+do not log stack trace
+fix typo in javadoc
+add a comment
+fix potential deadlock
+remove unused field
+fix a bug in 😝
+fix javadoc errors
+add test for 😝
+add comments to 😝
+fix bug in 😝
+do not show 😝 😝 if not initialized
+use weak 😝
+fix 😝 in 😝
+fix typo in 😝
+remove 😝 😝
+fix a bug in activity 😝
+remove override annotation
+fix bug in 😝
+fix a bug in 😝
+remove unused imports
+don t run process on 😝
+disable 😝 😝
+fix line separators
+remove system err
+fix a bug where the
+don t send 😝 messages with 😝
+add equals method
+fix 😝 😝
+remove unused constant
+😝 should wrap 😝
+add 😝 to 😝
+fix potential npe
+add wallet 😝 to wallet
+improve 😝 😝
+fix typo in javadoc
+fix junit test
+fix typo in javadoc
+fix 😝 test
+ignore 😝 😝
+fix bug in 😝
+fix test failures
+add 😝 to 😝
+add missing license header
+fix bug in 😝
+fix 😝 😝
+fix potential npe
+remove unused method
+remove 😝 from 😝
+remove unused field
+remove unused constant
+fix a bug in 😝
+fix bug in 😝
+add unit test
+add capability to 😝
+throw iae if trying to reuse a ioexception
+fix 😝 😝
+fix failing test
+remove unused code
+fix crash in 😝
+fix docs for 😝
+fix intellij warning
+remove 😝 logging
+implement 😝 method
+catch an exception instead of throwing an exception
+fix small bug
+make 😝 public
+remove system out
+print 😝 matrix
+remove unneeded nullable
+fix failing test
+test fix 😝
+remove unused method
+implement 😝 for 😝
+improve error message
+fix 😝 😝
+fix failing tests
+make 😝 public
+remove unused field
+fix checkstyle warning
+add 😝 😝
+fix 😝 in 😝
+fix incorrect package name
+fix 😝 😝
+fix crash when 😝 😝
+remove unused code
+remove unused field
+remove unused code
+fix 😝 😝
+fix a bug where 😝 😝 returns a wrong margin
+fix a bug where tasks were not updated correctly
+smallfix remove redundant initializer in 😝
+fix 😝 calendar
+fix log message
+make 😝 public
+remove duplicate call
+remove unused field
+fix a typo in type 😝
+fix concat 😝
+fix bug in 😝
+fix potential npe
+fix a bug in 😝
+fix failing tests
+smallfix remove explicit type argument in 😝
+remove dead code
+fix possible npe
+fix mesh 😝
+remove unused variable
+do not expect 😝 exceptions
+fix bug in 😝
+add 😝 to 😝
+fix possible npe
+fix problem with 😝
+fix typo in javadoc
+😝 😝 should throw 😝
+fix 😝 😝
+fix 😝 close
+fix failing tests
+add 😝 to 😝
+fix potential nullpointerexception in 😝
+fix checkstyle issue
+add some more tests
+add 😝 to chunk
+do not create templates in 😝
+😝 😝
+add 😝 to 😝
+fix failing test
+add serialversionuid to address
+fix potential npe
+don t create class for cls cls
+don t use launcher insets
+smallfix remove explicit type argument in 😝
+remove unused method
+fix javadoc warning
+fix npe in 😝
+remove dead code
+fix compile error
+fix bug in 😝
+remove 😝 from 😝
+remove unused threadpoolexecutor
+add more logging to 😝
+fix 😝 😝
+fix checkstyle errors
+remove unused code
+remove unused import
+don t log 😝
+fix 😝 tests
+fix potential npe
+turn off trees for training weights
+add a comment
+make 😝 serializable
+fix compilation errors
+make 😝 public
+remove unused code
+fix a crash in 😝
+fix test on 😝
+fix 😝 😝
+git remove obsolete todo
+remove return value
+make 😝 package private
+corrected error message
+fix requestdisallowintercepttouchevent requestdisallowintercepttouchevent
+fix 😝 😝
+add unit test
+remove unused code
+add 😝 to 😝
+fix 😝 😝
+add a comment
+add 😝 to 😝
+fix a bug in 😝
+fix 😝 😝
+remove unused assignment
+fix bug in 😝
+fix potential npe
+git log fix 😝
+remove unused import
+eliminate eclipse warning
+fix test failures
+remove 😝 logging
+add javadoc for 😝
+fix test data
+do not validate super methods
+remove unnecessary getlist
+fix cardinality 😝
+fix failing test
+don t show 😝 when 😝 😝
+remove unused import
+fix weird typo
+fix generic signature
+fix npe in 😝
+remove override annotation
+remove unused code
+add 😝 getindex
+add 😝 to 😝
+remove unused code
+remove unused code
+add a couple of logging
+fix unit tests
+fix 😝 😝
+remove debug output
+add 😝 to 😝
+add support for 😝
+add 😝 to 😝
+do not show 😝 😝
+fix 😝 😝
+remove unused imports
+remove unused import
+remove unused code
+remove unused imports
+fix a bug in 😝
+fix some javadoc issues
+remove 😝 injector
+fix failing test
+remove 😝 logging
+force keyboard keyboard 😝
+remove unused method
+fix 😝 problem
+add test for 😝
+remove a printstacktrace
+fix 😝 😝
+remove debug print
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+fix npe in 😝
+remove unused import
+fix default theme for 😝
+rename 😝 to 😝
+fix javadoc typo
+don t show 😝 for 😝
+remove unused code
+fix 😝 😝
+add some comments
+remove unused import
+add 😝 to 😝
+fix a bug in 😝
+fix 😝 😝
+add null check
+fix broken build
+remove unused constant
+fix npe in 😝
+remove unused imports
+fix crash when 😝 😝
+fix 😝 problem with 😝
+fix 😝 😝
+fix checkstyle issues
+remove debug code
+temporarily disable 😝
+fix failing tests
+remove useless code
+remove 😝 todo
+fix camera 😝
+fix compilation error
+remove old comments
+add param to 😝
+add missing license header
+fix editor 😝
+add timeout to 😝
+add checkreturnvalue to strings
+remove unused method
+fix failing test
+fix bug in 😝
+fix npe in 😝
+fix test data
+add 😝 method
+don t clear foreground activity
+add some comments
+remove obsolete todo
+fix crash in 😝
+fix bug in 😝
+don t show isadded profile if hardware hardware
+fix potential npe
+fix 😝 😝
+fix crash in 😝
+fix test data
+fix npe in 😝
+remove unused method
+don t use deprecated method
+add default constructor to 😝
+add 😝 to 😝
+add 😝 to 😝
+remove 😝 from 😝
+fix compile problem
+remove 😝 😝
+remove unused field
+fix potential npe
+fix layerdrawable mutate bug
+remove unused variable
+remove obsolete comment
+make 😝 serializable
+add a comment
+remove unused constants
+ignored failing test
+remove 😝 warning
+fix 😝 😝
+fix bug in 😝
+fix 😝 😝
+wrap interrupted interrupted exceptions
+improved error message
+remove unnecessary method
+do not show balloon for 😝
+add 😝 to 😝
+fix 😝 😝
+fix a bug in 😝
+fix 😝 😝
+fix npe in 😝
+add 😝 method
+make 😝 😝
+fix 😝 in 😝
+fix a test failures
+remove unused code
+don t increment 😝 😝
+fix a bug with 😝 😝
+add some comments
+fix potential npe
+remove unused method
+remove system out
+fix 😝 😝
+fix a bug in 😝
+fix 😝 😝
+fix failing test
+fix bug in 😝
+sourceformatter source formatting
+add serialversionuid to 😝
+add yield to 😝
+remove 😝 from 😝
+disable 😝 by default
+remove unused imports
+fix 😝 😝
+fix possible npe
+add 😝 to 😝
+don t use deprecated setter
+remove unused imports
+fix typo in comment
+fix crash in 😝
+fix npe in 😝
+remove unused code
+dispose 😝 😝
+remove deprecated methods
+remove unused variable
+add systemapi to 😝
+fix 😝 😝
+fix 😝 😝
+fix compilation errors
+don t use 😝 in 😝
+don t show 😝 button when 😝
+fix potential npe
+fix possible npe
+fix compilation error
+ignore some test
+add 😝 method to 😝
+remove unused code
+remove getclassname from 😝
+remove duplicate suppresswarnings
+fix failing tests
+remove unused constant
+improved assertion message
+fix problem with multiple login
+fix 😝 😝
+fix npe in 😝
+remove 😝 assertion
+make 😝 😝 public
+remove unused mcontext
+add more 😝 to 😝
+do not create 😝 if interrupted
+delete unused method
+remove finalize annotation
+fix checkstyle errors
+wrap 😝 😝
+fix bug in 😝
+improve error message
+add support for 😝 to 😝
+make fill methods public
+fix javadoc typo
+fix bug in 😝
+fix 😝 😝
+fix 😝 😝
+fix 😝 notification
+remove unused function
+make 😝 cancellable
+fix bug in 😝
+fix the build
+remove deprecated code
+fix checkstyle warning
+fix potential deadlock
+fix failing tests
+add support for 😝
+add 😝 to 😝
+remove debug code
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+add debug log entry
+fix 😝 😝
+add missing license header
+fix possible npe
+add 😝 to group 😝
+fix typo in javadoc
+refactored exception reporting
+fix npe in 😝
+fix typo in javadoc
+fix unit test
+fix 😝 😝
+add 😝 to 😝
+add 😝 rendering
+remove unused import
+don t hide keyguard while 😝
+remove unused code
+add 😝 to mediatype
+add support for 😝
+fix typo in javadoc
+fix failing test
+fix failing test
+fix 😝 😝
+don t create 😝 for 😝
+add some more tests
+fix typos in javadoc
+fix failing tests
+add license header
+fix 😝 😝
+add check for 😝
+fix bug in 😝
+add 😝 😝
+add a test
+remove unused constant
+fix typo in javadoc
+add 😝 to 😝
+remove unused import
+fix equals equals
+fix compile error
+fix potential npe
+add 😝 to 😝
+add 😝 to 😝
+fix compilation errors
+remove dead code
+fix thread leak in 😝
+propagate 😝 errors
+add some javadoc
+remove debug print
+fix glsurfaceview 😝
+remove unused code
+fix quality flaw
+fix potential npe
+remove unused method
+add a duration of the duration of the 😝
+remove unused import
+add 😝 method
+fix 😝 😝
+improved javadoc for 😝
+restrict 😝 to 😝
+fix potential deadlock in 😝
+fix font 😝
+fix npe in 😝
+remove todo comment
+fix a bug in 😝
+remove 😝 from 😝
+fix npe in 😝
+fix delay returning null
+fix a bug where the 😝 cursor doesn t exist
+fix typo in comment
+fix bug in 😝
+add 😝 😝
+add some more debug info
+remove unused code
+fix 😝 😝
+remove unused code
+remove unused method
+fix 😝 😝
+fix default values
+fix npe in 😝
+fix javadoc warning
+fix memory leak
+don t overwrite 😝 for 😝
+add 😝 to 😝
+add exception message for 😝 failure
+don t hide 😝 when 😝
+add 😝 to 😝
+don t use 😝 for 😝
+fix failing test
+don t create root root for root root
+fix typo in 😝
+add a comment
+improved error message
+fix memory leak in 😝
+add 😝 to 😝
+don t allow 😝 to install keyguard
+fix npe in 😝
+fix failing test
+fix possible npe
+remove unused field
+rename 😝 to 😝
+fix potential npe
+fix typo in 😝
+fix 😝 😝
+fix bug in mapperservice 😝
+fix potential npe
+fix failing test
+do not finish 😝
+add 😝 to bluetoothadapter
+fix a bug where the 😝 😝 t occurs
+remove unused import
+fix 😝 scroll
+fix view 😝
+fix bug in 😝
+fix 😝 tests
+fix license headers
+add a comment
+add 😝 😝
+don t create listview for 😝
+fix canvas 😝
+fix 😝 😝
+remove 😝 from 😝
+fix 😝 😝 hints
+fix a bug in 😝
+remove unnecessary runwriteaction
+fix bug in 😝
+remove unused comment
+remove unused code
+fix some typos
+fix a bug in 😝
+fix bug in 😝
+fix compilation errors
+don t use deprecated image hostname for 😝
+add a todo
+fix bug in 😝
+fix potential deadlock
+changed 😝 to use the new 😝
+add 😝 to 😝
+add some javadoc
+add 😝 to 😝
+fix potential npe
+suppress 😝 warning
+fix indexoutofboundsexception in 😝
+fix checkstyle warning
+fix 😝 😝
+add missing override annotation
+fix possible npe
+fix a crash in 😝
+fix potential npe
+smallfix remove redundant initializer in matcher
+remove 😝 exception
+do not create 😝 for non 😝 elements
+fix failing tests
+remove unused method
+remove trace from 😝
+fix failing tests
+fix incorrect calculation of 😝
+remove unused code
+remove unused method
+cancel progress indicator on cancel
+remove 😝 comment
+fix potential npe
+fix javadoc typo
+fix failing test
+remove unused import
+remove unused code
+remove unnecessary 😝 call
+don t send hardware 😝
+make 😝 public
+add test for jdbc jdbc jdbc agent
+remove 😝 from 😝
+fix failing test
+fix potential npe
+add acra 😝
+remove unneeded comment
+don t call 😝 when 😝
+smallfix incorporated pr comment
+don t call 😝 when 😝
+add 😝 to 😝
+fix potential npe
+fix 😝 😝
+fix 😝 😝
+fix a problem where the 😝 channel returns already closed
+fix maven test
+add a comment
+fix 😝 😝
+fix a typo in webview
+add 😝 to 😝
+remove unused import
+fix potential npe
+remove unused variable
+fix failing test
+fix failing test
+fix table 😝
+fix npe in 😝
+fix compile error
+fix settitle arg arg
+add 😝 to 😝
+fix 😝 😝
+improved error message
+remove dead code
+remove system system system out
+remove 😝 from 😝
+fix npe in 😝
+fix 😝 scroll position
+remove hardcoded commandline
+remove unused method
+add nullable annotation
+fix bug in 😝
+fix 😝 test
+fix bug in 😝
+add missing license header
+fix help message
+fix javadoc for 😝
+deprecate unused method
+fix a bug in 😝
+fix crash in 😝
+fix a comment
+fix 😝 😝
+fix npe in 😝
+remove system err
+add 😝 version
+add 😝 to 😝
+fix 😝 😝
+remove unused code
+fix 😝 😝
+fix npe in 😝
+remove 😝 from 😝
+remove unused code
+fix 😝 stop
+add missing 😝 method
+fix npe in bundle
+remove unused method
+remove unused variable
+add a todo
+remove unused import
+remove unnecessary code
+fix 😝 😝
+don t use current file for 😝
+fix 😝 😝
+fix bug in 😝
+fix failing test
+fix javadoc warnings
+fix bug in 😝
+add 😝 😝
+fix bug in 😝
+remove unused field
+remove dead code
+fix broken test
+remove debug logging
+remove unused import
+fix 😝 😝
+add 😝 to 😝
+fix a few comments
+don t set changelist for changelist
+fix typos in javadoc
+simplify 😝 logic
+fix 😝 😝
+fix typo in javadoc
+fix crash in 😝
+fix bug in 😝
+fix npe in 😝
+fix intellij warning
+fix 😝 😝
+remove unused import
+remove unneeded annotation
+add a comment
+don t print stack trace on failure
+temporarily suppress 😝
+fix test failures
+add a todo
+add a comment
+add kotlin runtime jar to 😝
+remove unnecessary generics
+add clone method
+fix npe in 😝
+rename 😝 method
+fix failing tests
+fix potential npe
+add some more tests
+remove system out
+fix bug in 😝
+remove obsolete todo
+remove 😝 call
+fix failing test
+fix failing test
+fix bug in 😝
+remove unused code
+handle 😝 format format
+fix bug in 😝
+add 😝 annotation
+remove 😝 logging
+remove unneeded 😝
+fix log message
+fix potential npe
+fix a bug where 😝 😝 t rotate the 😝
+add 😝 to 😝
+fix error message
+fix typo in javadoc
+improved exception message
+fix possible npe
+fix bug in 😝
+fix docs 😝
+remove debug print
+fix a bug in 😝
+remove unnecessary logging
+fix bug in 😝
+fix potential npe
+fix typo in javadoc
+fix 😝 😝
+remove 😝 from 😝
+add stringutils join
+don t clear disposed 😝
+remove unused constant
+remove unused javadoc
+fix 😝 😝
+fix 😝 😝
+fix potential npe
+add support for 😝 😝
+add 😝 method
+fix potential npe in 😝
+fix findbugs warning
+fix 😝 😝
+fix potential npe
+improved error message
+fix a bug where 😝 😝 t rotate the 😝
+rename 😝 to 😝
+add a new setting for 😝 setting
+fix crash in 😝
+smallfix remove explicit argument type in 😝
+fix failing test
+add settings 😝
+fix failing test
+fix failing test
+remove getter from 😝
+add 😝 to 😝
+increased timeout in 😝
+fix bug in 😝
+fix failing test
+remove unnecessary type
+make note 😝
+fix a bug in 😝
+fix a failing test
+fix 😝 😝
+remove unused method
+fix failing tests
+fix broken test
+add a todo
+don t 😝 😝
+fix potential deadlock
+add 😝 to 😝
+fix bug in 😝
+remove unused code
+fix npe in 😝
+remove debug logging
+remove deprecated code
+fix typo in 😝
+add 😝 method
+fix potential npe
+fix findbugs warning
+add 😝 to 😝
+fix unchecked warning
+fix typo in javadoc
+fix failing test
+add 😝 to 😝
+add 😝 to 😝
+add ability to force scheduled job
+fix compilation error
+remove unused code
+ignored failing test
+add a test case
+fix npe in 😝
+fix 😝 😝
+remove unused field
+clarify some docs
+fix 😝 delete
+remove todos in 😝
+remove unnecessary 😝 call
+fix log message
+remove hardcoded 😝
+fix failing test
+add support for 😝
+don t use 😝 😝
+fix bug in 😝
+remove unused import
+fix bug in 😝
+add more logging to job
+don t throw exception when requested on 😝
+fix typo in javadoc
+fix chart 😝
+add 😝 to 😝
+don t run 😝 on startup
+fix 😝 😝
+fix typo in 😝
+remove unused constants
+don t call 😝 if it s 😝
+add 😝 to 😝
+remove unused code
+fix 😝 😝
+fix 😝 test
+do not show 😝 for 😝
+fix 😝 😝
+fix typo in javadoc
+remove unused line
+add 😝 to parser
+add 😝 😝
+add 😝 to 😝
+remove unused import
+fix failing test
+fix a bug in 😝
+remove unused method
+remove unused code
+fix failing test
+fix bug in 😝 lifecycle
+fix the build
+add final modifier to types
+replace throwable with 😝
+fix bug in 😝
+fix 😝 😝
+fix 😝 😝
+fix possible npe
+fix material 😝
+remove unnecessary field
+fix 😝 calculation
+fix failing test
+fix 😝 😝
+fix failing test
+rename 😝 to 😝
+remove unused code
+remove unnecessary 😝
+remove 😝 comment
+fix potential npe
+fix compilation error
+remove unused imports
+do not create 😝
+fix bug in 😝
+fix merge conflict
+remove unnecessary modifiers from interfaces
+add 😝 to indexer
+fix potential npe in 😝
+remove 😝 comment
+remove unused code
+fix failing tests
+fix javadoc errors
+don t resolve 😝 when 😝
+smallfix remove explicit type argument in 😝
+remove unused code
+improved error message
+remove unnecessary code
+remove unused code
+deprecate old classes
+remove unused code
+fix a bug in 😝
+remove unused imports
+fix potential npe
+add 😝 method to 😝
+remove unused constant
+do not log 😝
+fix 😝 😝
+don t use hibernate domain loader directly
+don t show deploy sdk for ide roots
+fix a potential null pointer tile warning
+don t show never isvisible tasks in 😝
+do not break 😝
+fix 😝 😝
+handle 😝 exceptions
+add some comments
+remove unused code
+remove system out
+remove unused method
+add some comments
+add 😝 to 😝
+add constructor to 😝
+fix memory leak
+remove unused method
+fix 😝 😝
+fix possible npe
+add 😝 to 😝
+add some javadoc
+fix typo in comment
+fix possible npe
+fix javadoc errors
+fix 😝 😝
+add 😝 😝
+add a comment
+fix checkstyle errors
+fix potential npe
+add null checking to 😝
+fix the build
+remove 😝 warning
+fix potential deadlock
+don t show 😝 outline outline for 😝
+add await to 😝
+remove unnecessary catch block
+fix a bug where the 😝 😝 t get 😝
+remove system out
+fix cs errors
+fix 😝 😝
+add 😝 to 😝
+remove 😝 assertion
+changed 😝 description
+remove unused code
+add 😝 to 😝
+remove unused import
+fix classcastexception in 😝
+remove leftover log
+fix typo in javadoc
+add datetimezone to datetimezone
+remove unused code
+add a comment
+fix potential npe
+remove unused imports
+fix bug in 😝
+fix failing tests
+add a comment
+fix 😝 😝
+fix failing tests
+add 😝 to 😝
+don t run 😝 if 😝
+remove unused code
+ignore failing test
+add override annotation
+add thread safety annotations for tachyon 😝 in integration module
+fix compilation error
+don t create 😝 for 😝
+fix bug in 😝
+fix potential npe
+add missing overrides
+fix javadoc typos
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+revert 😝 url
+fix 😝 test
+add some comments
+add 😝 to sample
+fix honeycomb bug
+add 😝 method
+remove 😝 from 😝
+remove deprecated method
+make 😝 public
+remove unused imports
+fix npe in 😝
+fix error message
+do not show 😝 for find usages
+add 😝 to 😝
+remove unused constant
+add 😝 as dependency
+don t show empty permission for 😝
+fix npe in 😝
+add 😝 to 😝
+remove debug stacktrace
+fix bug in 😝
+fix 😝 leak
+fix compilation error
+fix 😝 😝
+fix potential npe
+fix flaky test
+fix 😝 test
+make 😝 class public
+remove unnecessary error
+fix failing test
+add 😝 😝
+fix crash in 😝
+fix unit test
+remove unused import
+fix nullpointerexception in 😝
+fix potential npe
+fix typo in comment
+fix potential npe in 😝
+fix 😝 😝
+fix a bug in 😝
+fix a typo in 😝
+add a test
+fix 😝 😝
+improved error message
+do not run 😝 in tests
+restore editor 😝
+add 😝 to 😝
+remove debug output
+remove unused constants
+fix findbugs warning
+fix possible npe
+add 😝 to 😝
+remove unused code
+fix 😝 😝
+implement 😝 😝
+fix npe in 😝
+add missing license header
+remove unused code
+add 😝 😝
+add missing license headers
+remove system out
+fix a bug in 😝
+improved error message
+make 😝 public
+fix javadoc errors
+fix javadoc for 😝
+fix a bug where the 😝 doesn t set 😝
+fix 😝 😝
+fix potential npe
+fix checkstyle errors
+add getter for 😝
+remove unnecessary call
+make 😝 public
+fix potential npe
+remove unused variable
+remove unused imports
+deprecate 😝 😝
+fix failing test
+add test for 😝
+fix a bug where notifications had no title
+fix preference 😝
+do not show inspections in headless mode
+suppress unchecked warning
+don t show 😝 button
+fix potential npe
+add a comment
+fix npe in 😝
+fix 😝 😝
+fix 😝 addlistener
+fix checkstyle errors
+fix javadoc typo
+catch exception in 😝
+remove unused method
+add a comment
+remove unused method
+remove unnecessary code
+fix typo in javadoc
+add missing gesturedetector
+add assertion message
+remove unused import
+add one more test
+remove unused field
+add missing javadoc
+add 😝 method
+add a new setting for 😝 😝
+add missing final keyword
+fix 😝 😝
+fix a typo in 😝
+fix typos in javadoc
+fix a mistake mistake
+fix bug in 😝
+add missing incubating
+remove unused code
+fix a bug in 😝
+add a comment
+fix bug in 😝
+add 😝 to 😝
+use the default settings for the 😝
+fix javadoc warning
+fix potential npe
+add ability to share a tostring
+fix failing test
+fix bug in 😝
+fix 😝 😝
+fix javadoc for 😝
+don t use file b to reuse 😝
+fix npe in 😝
+make 😝 public
+remove 😝 logging
+remove deprecated constants
+remove unneeded final
+fix checkstyle issue
+fix npe in 😝
+add 😝 to 😝
+rename 😝 to 😝
+smallfix remove explicit type argument in utils
+remove 😝 😝
+fix typos in javadoc
+fix checkstyle issue
+fix potential npe
+fix npe in 😝
+make 😝 final
+fix 😝 😝
+fix npe in 😝
+fix failing test
+fix checkstyle warning
+fix javadoc errors
+fix a crash in 😝
+fix a crash in 😝
+fix failing test
+fix potential npe
+fix 😝 rendering
+remove system out
+add 😝 constructor
+remove unused code
+fix unit test
+add a comment
+remove unused import
+remove unused params
+fix potential npe
+fix some eclipse warnings
+remove unused import
+remove unnecessary cast
+fix 😝 😝
+fix typo in javadoc
+fix 😝 😝
+don t use 😝 😝
+fix failing tests
+remove unused method
+fix npe in 😝
+add a comment
+fix javadoc errors
+fix a crash in 😝
+fix 😝 😝
+fix 😝 😝
+add 😝 to 😝
+fix typo in javadoc
+remove unused field
+do not throw 😝 exceptions
+remove unused method
+don t 😝 😝
+add 😝 😝
+use long type for 😝
+fix 😝 test
+remove useless cast
+add 😝 to 😝
+fix possible npe
+fix checkstyle warning
+don t highlight empty lines
+add label for 😝
+remove unused constant
+remove stale comment
+fix failing test
+fix npe in 😝
+smallfix remove explicit type argument in 😝
+fix nullpointerexception in 😝
+remove unused code
+remove unused import
+don t resolve static methods
+don t show 😝 when 😝 😝
+fix 😝 😝
+add some assertions
+fix problem with async distributed lookup
+remove unused code
+don t show hardware 😝 when keyguard is disabled
+fix potential npe in 😝
+don t create 😝 for 😝
+remove unused import
+fix javadoc for 😝
+remove unused code
+fix deprecation warning
+fix bug in 😝
+refactored 😝 😝
+add tests for 😝
+fix bug in eventbus
+fix log message
+send 😝 😝 foreground permissions
+fix 😝 😝
+fix 😝 😝
+remove unused code
+fix checkstyle problems
+add append method to 😝
+fix npe in 😝
+fix a crash in 😝
+don t 😝 exceptions
+remove unused code
+remove unused code
+remove debug print
+rename 😝 to 😝
+fix checkstyle warning
+fix bug in 😝
+fix 😝 in 😝
+fix npe in 😝
+fix failing test
+fix possible npe
+add 😝 to axis
+fix unchecked warning
+add 😝 to 😝
+fix help message
+fix failing test
+remove unnecessary close call
+add 😝 to 😝
+use https hostname
+add awaitsfix to 😝
+fix 😝 😝
+remove unused code
+fix failing test
+remove unused constant
+do not use deprecated 😝
+add missing test
+fix possible npe
+remove 😝 logging
+add 😝 😝
+don t show fab button for episodes
+remove final modifier
+remove unused imports
+fix a bug in sslhandler
+fix 😝 😝
+fix javadoc warning
+remove unused line
+fix potential npe
+disable 😝 😝
+add support for 😝
+fix typo in comment
+fix bug in 😝
+fix possible npe
+fix test cases
+fix bug in 😝
+remove unused imports
+fix 😝 😝
+don t show 😝 for 😝
+fix possible npe
+fix bug in 😝
+remove unnecessary isdisposed check
+fix 😝 😝
+add 😝 to 😝
+fix a compilation error
+add 😝 to 😝
+remove unused import
+add missing headers
+fix possible npe
+fix a bug with 😝 😝
+fix javadoc warning
+fix intellij warning
+remove unused import
+fix a bug where notifications had no title
+fix 😝 😝
+fix 😝 😝
+fix log level
+fix compilation error
+do not collect 😝 from 😝
+hide 😝 😝
+remove printstacktrace printstacktrace
+fix potential deadlock
+remove unused code
+fix typo in javadoc
+fix failing tests
+fix failing test
+do not create profiles
+remove 😝 from 😝
+hide 😝 😝
+add tostring method
+eliminate eclipse warnings
+remove unused code
+do not show scope in 😝
+add some javadoc
+fix potential npe
+add support for 😝
+add 😝 rate
+remove obsolete constants
+fix npe in 😝
+fix race condition in 😝
+add missing license headers
+rename 😝 to stdout
+fix npe in 😝
+fix suggestion 😝
+remove unnecessary code
+fix bug in 😝
+add 😝 to 😝
+remove 😝 logging
+fix javadoc typo
+improved error message
+fix 😝 😝
+fix javadoc errors
+fix some typos
+remove unused code
+add interrupt interrupt method
+groovy script doesn t use 😝
+fix crash in 😝
+fix checkstyle warning
+don t show listview animations when 😝
+fix 😝 😝
+fix failing test
+fix hive partition reading issue
+fix 😝 😝
+remove unused code
+fix 😝 😝
+remove deprecated code
+fix qs tile qs tile
+fix memory leak
+remove redundant field
+don t show 😝 for 😝 expression
+make 😝 😝
+suppress unchecked warning
+fix bug in 😝
+add 😝 to windowmanager
+add 😝 to style
+fix failing tests
+add a comment
+add missing 😝 annotation
+fix a crash in 😝
+fix potential npe
+fix failing tests
+add tostring method
+fix assertion assertion
+remove unused code
+fix bug in 😝
+rename 😝 to 😝
+add 😝 to 😝
+remove unused variable
+add missing license headers
+don t use deprecated method
+remove unused imports
+fix bug in 😝
+don t use things for 😝
+improve exception logging
+fix npe in 😝
+remove 😝 from 😝
+remove 😝 logging
+add getter for 😝
+remove unused field
+remove system out
+fix npe in 😝
+add missing license header
+fix 😝 😝
+fix 😝 😝
+make 😝 public
+remove unnecessary 😝
+fix 😝 😝 images
+add tostring to gettype
+add 😝 to 😝
+fix npe in 😝
+add incubating to 😝
+fix a bug in 😝 where cached 😝
+fix broken test
+remove unused code
+smallfix incorporated pr comment
+fix typo in javadoc
+fix possible npe
+fix 😝 in 😝
+fix bug in 😝
+don t show 😝 for 😝
+don t call 😝 unless 😝 😝
+smallfix remove explicit argument type in 😝
+rename 😝 to stdout
+remove deprecated code
+remove trailing spaces
+remove void from 😝
+fix bug in 😝
+fix 😝 😝
+remove unused imports
+don t show 😝 when 😝 tasks
+remove unused variable
+don t print stack errors
+add equals and equals to 😝
+fix 😝 😝
+add 😝 😝
+fix potential npe
+fix checkstyle warning
+add 😝 to 😝
+remove 😝 println
+don t show window outline if window is hidden
+don t add empty line
+add 😝 to 😝
+remove unused field
+fix npe in 😝
+fix 😝 😝
+add getoutput to 😝
+fix failing tests
+remove system setproperty
+add 😝 method
+fix bug in 😝
+fix npe in 😝
+fix 😝 😝
+don t show 😝 if we re logged
+fix broken test
+fix failing test
+fix error message
+add support for source files
+add nullable annotation
+fix broken test
+fix 😝 😝
+fix junit test
+add 😝 to 😝
+fix failing tests
+remove unused code
+fix bug in 😝
+fix possible npe
+remove 😝 tests
+fix linearlayout 😝
+add 😝 to 😝
+fix 😝 for
+fix 😝 😝
+start the 😝
+fix a bug where a notification wasn t 😝 properly
+do not collect 😝 from 😝
+fix 😝 😝
+fix typo in javadoc
+fix 😝 😝
+fix javadoc whitespace
+add increment method
+fix potential npe
+fix typo in 😝
+don t show deploy profiles in 😝
+add 😝 to 😝
+remove debug flag
+add 😝 to 😝
+remove unused imports
+fix 😝 😝
+fix bug in 😝
+fix maven tests
+fix failing tests
+add new constants for 😝
+remove unused code
+fix compilation error
+fix failing test
+don t show keyguard if hardware is hidden
+fix 😝 tests
+fix javadoc for 😝
+fix nullpointerexception in 😝
+fix potential npe
+add 😝 to 😝
+do not create 😝 paths
+fix bug in 😝
+fix test failure
+fix 😝 😝
+fix failing test
+fix a bug in 😝
+add a new setting for 😝 setting
+fix checkstyle warning
+remove unnecessary call to 😝
+fix test failures
+remove unused line
+smallfix incorporated pr comment
+remove unnecessary 😝
+fix 😝 😝
+fix npe in hazelcastparallelclassrunner
+fix small bug
+make writer public
+fix test cases
+make 😝 final
+fix crash in 😝
+changed type to 😝
+make 😝 final
+add some comments
+fix npe in 😝
+don t clear activities while 😝
+fix 😝 😝
+remove obsolete todo
+fix 😝 😝
+remove unused method
+fix potential npe
+don t show 😝 if 😝 is disabled
+remove unneeded 😝
+smallfix remove redundant initializer in 😝
+improved error message
+add 😝 to 😝
+add trace logging
+add check for 😝
+fix model leak
+fix a bug in 😝
+fix 😝 😝
+fix findbugs warning
+fix failing test
+fix test case
+do not validate 😝 if it s not initialized
+remove unused import
+fix 😝 😝
+fix 😝 hash bug
+ignore failing test
+fix typo in error message
+add test for 😝
+fix a bug in 😝
+remove unused code
+add 😝 😝
+remove 😝 logging
+fix bug in 😝
+add 😝 to platform
+fix npe in 😝
+fix failing test
+remove unused constant
+add helper method for 😝
+fix 😝 😝
+fix possible npe
+fix javadoc errors
+remove unused method
+fix failing test
+improved error reporting
+fix 😝 😝
+fix device leak
+fix bug in 😝
+add 😝 to mediastore
+fix typo in javadoc
+fix potential npe
+suppress deprecation warning
+remove unused code
+add 😝 to extractor
+fix 😝 😝
+don t hide self message for 😝 actions
+fix 😝 scroll scroll
+make constants final
+add missing license headers
+add test case for 😝
+fix 😝 😝
+add missing override
+add missing test annotation
+remove unused code
+add stop stop
+fix failing test
+add a comment
+fix failing tests
+fix the build
+propagate 😝 to 😝
+fix the build
+fix failing test
+remove unused code
+fix 😝 😝
+fix bug in 😝
+fix failing test
+improved the javadoc
+add 😝 to 😝
+fix thread leak in 😝
+add constructor to 😝
+add a comment
+fix bug in 😝
+fix possible npe
+fix checkstyle issue
+remove deprecated code
+handle 😝 exceptions
+fix 😝 😝
+fix potential npe
+fix getvalue 😝
+fix npe in 😝
+remove debug output
+remove unused imports
+remove unnecessary code
+fix failing test
+remove system out
+fix bug in 😝
+remove unused constructor
+remove unused test
+remove unused code
+add constructor to 😝
+add missing test
+fix a bug in 😝
+fix bug in 😝
+add the ability to 😝 the stream stream
+remove unused import
+add 😝 to 😝
+fix a bug in 😝
+fix npe in 😝
+fix failing test
+fix test data
+fix bug in 😝
+remove unused import
+fix 😝 😝
+make 😝 😝 protected
+fix 😝 😝
+add 😝 😝
+fix a bug in 😝
+fix failing test
+fix 😝 unwrap
+fix a bug in roster
+remove unused field
+fix 😝 😝
+fix bug in 😝
+add a workaround for the constant
+hide pref button on 😝
+fix a crash in 😝
+add a 😝 test
+fix bug in 😝
+do not use deprecated 😝
+fix npe in 😝
+fix 😝 in 😝
+fix bug in 😝
+fix typo in javadoc
+add 😝 to 😝
+fix a bug in 😝
+fix crash in 😝
+rename 😝 to 😝
+do not log exceptions
+remove unused constant
+remove unnecessary test
+suppress unchecked warning
+fix npe in 😝
+fix 😝 calculation
+don t use deprecated 😝 method
+fix spelling mistake
+fix help message
+don t show 😝 when 😝 activity
+remove unused method
+add 😝 to 😝
+fix 😝 leak
+remove unused constant
+fix memory leak
+add a todo
+wrap stacktrace stacktrace with stacktrace
+make 😝 public
+simplify boolean check
+add a comment
+fix 😝 😝
+give the online so that it works to connect
+remove unused method
+improve error message
+fix 😝 😝
+remove redundant override
+fix potential race condition in 😝
+fix checkstyle issues
+add missing annotations to 😝
+fix a bug in 😝 😝
+fix failing tests
+ignore failing test
+log error logging
+remove 😝 background
+improve error message
+add 😝 to 😝
+test fix 😝
+fix npe in 😝
+fix npe in 😝
+add another constructor
+fix bug in 😝
+fix npe in 😝
+add getter for 😝
+remove unused import
+fix 😝 😝
+fix typo in 😝
+remove 😝 exit
+remove unused method
+do not use headless mode
+renamed 😝 to 😝
+remove unused import
+fix potential npe
+fix npe in 😝
+fix checkstyle warning
+fix javadoc typo
+fix 😝 😝
+marked 😝 as 😝
+add 😝 to 😝
+fix failing test
+eliminate eclipse warning
+fix potential npe
+fix crash in 😝
+fix typo in 😝
+remove unused method
+remove unused code
+fix potential deadlock
+remove 😝 logging
+add 😝 method
+fix 😝 😝
+fix intellij warning
+remove unused code
+fix potential npe
+don t show 😝 if 😝 is disabled
+add todo header
+fix the build
+fix 😝 connect
+rename 😝 to 😝
+fix 😝 😝
+fix failing test
+remove unnecessary logging
+fix potential deadlock
+add 😝 config to 😝
+fix problem with async connections
+don t allow resize prefs to 😝
+remove unnecessary override
+remove dead assignment
+fix 😝 😝
+fix 😝 😝
+remove unnecessary start
+remove unused import
+fix race in 😝
+fix 😝 😝
+don t show icon icon in 😝
+don t 😝 😝 if 😝 😝
+remove unused import
+fix potential npe
+remove 😝 from 😝
+log the error message
+fix checkstyle errors
+remove 😝 from 😝
+don t 😝 😝 😝
+fix bug in 😝
+remove unused 😝
+remove unused methods
+fix failing test
+remove unused code
+do not create 😝 to 😝
+remove unused code
+fix findbugs warning
+don t create lambda parameters
+add setcontenttype to context
+add 😝 to 😝
+fix potential npe
+add separator to 😝
+remove unused import
+do not show error dialog in 😝
+fix test data
+remove unnecessary 😝
+fix crash in 😝
+fix 😝 bugs
+add 😝 to mediastore
+fix failing tests
+fix possible npe
+add targetapi annotation
+fix 😝 😝
+improve error message
+fix 😝 😝
+add missing override
+fix a bug in 😝
+do not expect 😝 reason
+fix failing tests
+fix typo in javadoc
+fix nullpointerexception in 😝
+remove 😝 from 😝
+fix javadoc typo
+do not save 😝
+fix broken test
+don t call 😝 on 😝
+add a todo
+fix quality flaws
+fix bug in 😝
+fix checkstyle issue
+changed boolean to public
+fix 😝 😝
+remove 😝 todo
+add a info logging to the 😝
+fix checkstyle warning
+fix test failures
+fix a few typos
+fix onrestoreinstancestate onrestoreinstancestate
+remove unused code
+do not use hardcoded 😝
+catch exception in 😝
+fix 😝 😝
+add accept method to 😝
+fix 😝 😝
+fix typo in javadoc
+add some javadoc
+fix failing test
+fix npe in 😝
+don t draw drawing layers
+remove unused method
+remove unused code
+fix bug in 😝
+add a test
+remove 😝 slash
+add some logging to 😝
+log unexpected exception
+add model animation constructor
+fix a bug in 😝
+fix checkstyle problems
+fix typo in javadoc
+remove 😝 posts
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+deleted duplicate whitespace
+fix npe in 😝
+remove unused constant
+don t show empty package
+fix failing test
+remove unnecessary call to 😝
+remove unused import
+remove unused import
+add 😝 to 😝
+fix bug in 😝
+remove 😝 logging
+throwing exception in 😝
+fix checkstyle errors
+avoid npe in 😝
+fix a bug in 😝
+fix unit test
+add match to stream
+remove 😝 from 😝
+fix potential npe
+fix checkstyle issues
+fix failing test
+ignore failing test
+add constructor to 😝
+fix bug in 😝
+fix npe in 😝
+fix a bug where 😝 😝 t 😝
+add assertion message
+add 😝 to 😝
+don t show 😝 outline outline outline outline in outline outline
+fix javadoc errors
+add a test
+fix a bug in 😝
+fix potential npe
+handle 😝 exception
+fix a typo in docs
+add 😝 to 😝
+move icons icons icons to toolwindow
+improved error message
+fix crash in 😝
+fix 😝 😝
+remove obsolete code
+fix 😝 exception
+remove unused method
+add tostring method to 😝
+add 😝 to 😝
+remove unused variable
+fix 😝 😝
+fix 😝 😝
+fix npe in 😝
+fix test data
+fix typo in 😝
+fix 😝 😝
+remove unused code
+remove unused method
+do not use phase for 😝
+fix possible npe
+remove unused code
+add timeout to 😝
+add 😝 to 😝
+make 😝 public
+fix possible npe
+fix error message
+fix unit tests
+remove unneeded interval
+disable 😝 on mac
+remove system out
+fix test case
+fix a bug with 😝 😝
+fix a bug in 😝
+do not restrict permission owner
+fix 😝 😝
+fix compilation error
+fix 😝 😝
+add 😝 sort
+remove unused constants
+fix a bug in 😝
+add missing runwith
+fix 😝 😝
+add license header
+fix failing test
+add 😝 constructor to 😝
+add 😝 to 😝
+remove unused method
+remove unused code
+add project apply methods
+add 😝 to 😝
+fix error message
+fix bug in 😝
+fix incorrect 😝
+remove 😝 😝
+tweak upgrade message
+add javadoc for 😝
+remove leftover test
+use the new constant
+fix npe in 😝
+fix possible npe
+add 😝 to 😝
+remove unused method
+fix checkstyle warning
+remove unused imports
+fix possible npe
+don t validate refs 😝
+fix test failures
+fix typo in javadoc
+fix bug in 😝
+fix bug in 😝
+add a comment
+make 😝 conditional
+fix javadoc typo
+add support for 😝
+fix unit test
+fix failing tests
+fix npe in 😝
+fix bug in 😝
+deprecate unused code
+don t show 😝 on mac
+fix checkstyle errors
+fix typo in javadoc
+remove unused constants
+fix failing test
+remove unused code
+add a null check
+fix potential npe
+add 😝 to frame
+fix bug in 😝
+refresh selection on refresh
+fix a bug in view orientation
+add 😝 to 😝
+fix a bug with 😝 😝 alpha
+add cookie to 😝
+remove unused code
+fix typo in javadoc
+fix bug in 😝
+add 😝 to 😝
+fix 😝 😝
+fix javaversion javaversion
+remove a todo
+remove 😝 from 😝
+fix 😝 😝 position
+remove obsolete todo
+fix 😝 😝
+remove 😝 😝
+don t add project to 😝
+fix npe in 😝
+disable 😝 😝
+fix 😝 😝
+fix compilation error
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix crash in 😝
+fix a bug where 😝 😝 😝 t rotate the 😝
+remove unused imports
+remove unused code
+fix 😝 😝
+fix javadoc whitespace
+fix findbugs warning
+fix typo in javadoc
+remove unnecessary 😝
+update todo comments
+fix 😝 😝
+renaming 😝 to 😝
+fix npe in 😝
+replace usages with 😝
+remove unnecessary call to 😝
+fix classcastexception in 😝
+fix potential npe
+fix bug in 😝
+fix typos in javadoc
+disable 😝 by default
+don t show commits icon for 😝
+add 😝 to 😝
+remove unused code
+fix 😝 😝
+remove unused code
+fix potential deadlock in 😝
+add license header
+add tostring method to 😝
+fix 😝 😝
+fix 😝 😝
+😝 extends 😝
+fix typos in javadoc
+add some more assertions
+remove unneeded modifier
+add 😝 to 😝
+fix npe in 😝
+fix npe in 😝
+fix 😝 tostring
+remove unused imports
+fix bad indent
+fix npe in 😝
+remove unused code
+fix npe in 😝
+fix bug in 😝
+fix potential npe
+remove 😝 printstacktrace
+remove unneeded 😝
+fix failing test
+don t 😝 low activities
+fix bug in 😝
+fix broken build
+remove 😝 logging
+add a test
+fix 😝 😝
+remove unused line
+remove unused import
+don t set 😝 state
+make 😝 public
+check invocationtargetexception for uid
+fix potential npe
+remove unused import
+fix bug in 😝
+catch 😝 exception
+remove trailing whitespace
+fix the comment
+add 😝 to 😝
+add pvector dot method
+add 😝 😝
+fix npe in 😝
+fix failing tests
+increased 😝 snapshot
+remove unused code
+add shutdown hook
+fix 😝 setcolor
+improved javadoc for 😝
+fix potential npe
+remove unused constant
+remove leftover debug print
+fix typo in javadoc
+remove unused code
+fix 😝 😝
+handle 😝 correctly
+remove assertion assertion
+do not create 😝 for 😝
+don t show soft profiles when 😝 😝
+remove unnecessary call to 😝
+do not show 😝 😝 for 😝
+fix a bug in 😝
+fix bug in 😝
+fix log message
+add missing nullable annotation
+catch exception when 😝 fails
+fix 😝 😝
+fix a typo in 😝
+fix 😝 😝
+fix 😝 😝
+fix compilation errors
+add 😝 to 😝
+remove system err
+remove unused catch block
+fix 😝 😝
+make base base public
+throw ioexception if status is not available
+add 😝 to 😝
+remove debug print
+fix test case
+fix 😝 😝
+fix 😝 😝
+fix compilation error
+do not use deprecated api
+catch an exception
+don t isphysical 😝 for 😝
+fix bug in 😝
+add 😝 intent
+remove 😝 😝
+add accessor for 😝
+fix possible npe
+fix failing test
+fix checkstyle issue
+don t show 😝 for 😝
+fix the build
+fix crash in 😝
+fix javadoc errors
+remove unused code
+fix 😝 😝
+rename 😝 to 😝
+fix failing test
+fix npe in 😝
+add helper method to 😝
+remove unnecessary call to connections
+remove unused import
+add 😝 to 😝
+add missing headers
+fix unit test
+remove unused method
+remove 😝 check
+add ability to send a 😝
+add 😝 😝
+add license header
+add 😝 to 😝
+remove unneeded word
+incorporated pr comment
+fix adapterview 😝
+fix javadoc errors
+fix unit test
+fix npe in 😝
+add 😝 to style
+fix potential npe
+fix potential npe
+fix 😝 😝
+rename actionplaces 😝
+remove trailing spaces
+don t throw exception when 😝 😝
+fix 😝 😝
+fix failing tests
+fix checkstyle issue
+fix javadoc typo
+fix a bug where the recents would be 😝
+add 😝 to 😝
+fix 😝 test
+don t 😝 😝 😝
+remove unused import
+add topic topic
+remove unused code
+fix logging mistake
+smallfix remove explicit argument type in 😝
+add some comments
+add test for cols
+fix npe in 😝
+remove system out
+fix failing tests
+fix vertical offset calculation
+fix 😝 test
+fix unit test
+remove unused method
+deprecate 😝 😝
+remove unused field
+fix 😝 😝
+remove unused variable
+add support for 😝 in 😝
+fix bug in 😝
+fix license header
+fix potential npe
+fix potential npe
+don t 😝 😝 from 😝
+remove system out println
+fix typo in 😝
+fix crash in preferenceactivity
+fix a bug in 😝
+improved error message
+fix bug in 😝
+fix potential npe
+fix crash when 😝 back
+don t show 😝 if we re 😝
+remove 😝 logging
+add 😝 method
+improve exception message
+remove unused import
+do not show contacts if no contact present
+fix bug in 😝
+improved javadoc for 😝
+fix failing tests
+fix 😝 😝
+fix 😝 calculation
+fix possible npe
+add 😝 to factory
+synchronize 😝 😝
+remove unused field
+fix bug in 😝
+fix possible npe
+add 😝 to 😝
+remove deprecated code
+fix typo in javadoc
+throw 😝 exception instead of 😝
+fix typo in javadoc
+fix a bug in wallet 😝
+fix bug in 😝
+fix potential npe
+fix log message
+remove unnecessary code
+add beta annotation to 😝
+fix 😝 😝
+add 😝 to 😝
+fix exception message in 😝
+add 😝 to 😝
+don t call 😝 if 😝 is not called
+do not push 😝 for 😝
+fix failing test
+add missing header
+fix typo in javadoc
+remove unused code
+fix small bug
+fix 😝 test
+fix failing test
+fix desc 😝
+fix 😝 😝 😝 😝
+fix typo in 😝
+remove debug code
+do not catch executionexception
+undo 😝 lint warning
+fix potential npe
+fix 😝 😝
+fix 😝 😝
+do not add 😝 to 😝
+make 😝 public
+fix 😝 😝
+don t run prepare on disposed prepare
+add 😝 method
+implement 😝 method
+add missing headers
+making 😝 package private
+remove unused imports
+remove unused code
+fix a bug in 😝
+add 😝 to 😝
+fix 😝 😝
+fix the build
+fix log message
+remove unnecessary exit
+add missing javadoc
+remove debug code
+fix a bug in 😝
+make constructor public
+fix the calculation of 😝
+remove transient transient
+fix potential deadlock in 😝
+fix 😝 😝
+fix 😝 test
+fix typo in 😝
+fix failing test
+add 😝 to 😝
+add mathutils 😝
+fix typo in javadoc
+remove 😝 😝
+fix compilation issue
+add some more assertions
+add 😝 😝
+fix npe in 😝
+fix 😝 😝
+add constructor to 😝
+fix npe in 😝
+remove debug code
+remove unused imports
+fix compilation errors
+remove unused method
+fix some typos
+remove unused method
+fix a problem where 😝 😝 t fire
+remove unused annotation
+fix bug in 😝
+remove unused code
+remove unused import
+add getter to 😝
+fix typos in javadoc
+fix incorrect 😝
+fix 😝 calculation
+remove trailing spaces
+add 😝 😝 method
+suppress unchecked warning
+fix bug in 😝
+fix checkstyle issue
+fix 😝 error message
+add missing delete
+updated javadoc for test
+fix possible npe
+fix javadoc typo
+add support for canonical handlers
+remove unneeded 😝
+remove 😝 finalize method
+fix 😝 equals
+fix failing tests
+fix bug in 😝
+don t process keywords
+add constructor to 😝
+fix failing test
+fix potential npe
+fix a bug where 😝 channel wasn t updated properly
+fix npe in 😝
+fix a problem where the 😝 doesn t 😝
+fix failing test
+don t 😝 null check
+fix 😝 leak
+remove unnecessary call to 😝
+fix 😝 😝
+do not add 😝 to 😝
+fix a bug in 😝
+fix npe in 😝
+fix failing test
+remove unused import
+fix 😝 😝
+improve error message
+remove unused code
+remove unneeded comment
+remove trailing spaces
+add 😝 method
+fix typo in javadoc
+remove unused constructor
+remove 😝 generation
+add comments comments
+add 😝 to 😝
+reduce log level to debug
+fix 😝 😝
+fix a typo in 😝
+fix 😝 adapter
+don t allow 😝 to be opened
+improved error message
+fix test failures
+don t show 😝 when 😝 😝
+remove unneeded 😝
+fix failing test
+remove default default default value
+fix a typo in 😝
+add test for 😝
+fix 😝 😝
+throw exception if trying to inflate 😝
+fix test case
+remove unneeded notnull
+fix a bug in 😝
+remove debug logging
+add 😝 to 😝
+fix bug in 😝
+fix 😝 😝
+remove todo comment
+fix a warning
+fix leak in 😝
+fix npe in 😝
+fix bug in 😝
+fix test failures
+fix typo in javadoc
+add a test
+fix javadoc links
+add 😝 to 😝
+remove unused method
+rename 😝 to 😝
+remove unused method
+do not log processcanceledexception
+add 😝 to 😝
+fix bug in 😝
+fix 😝 😝 images
+fix buffer leak in 😝
+fix a bug where the notes was called when 😝 😝
+fix bug in 😝
+fix 😝 calculation
+fix typo in 😝
+add roster to roster
+add 😝 method
+fix bug in 😝
+add 😝 to 😝
+fix possible npe
+remove debug print
+renamed 😝 to 😝
+add support for 😝
+add 😝 to 😝
+suppress unchecked warning
+fix failing test
+use the new 😝 identifier
+fix 😝 😝
+remove unneeded list
+fix potential npe
+remove unused line
+fix bug in 😝
+fix javadoc for 😝
+fix property name
+add description for 😝
+add a tag to trace
+don t leak 😝 on 😝
+fix failing tests
+fix npe in 😝
+remove unused import
+fix failing tests
+do not log 😝
+fix 😝 😝
+fix 😝 😝
+make 😝 serializable
+add more logging
+fix poi bar title
+remove unused line
+renamed conn to 😝
+remove 😝 logging
+fix 😝 😝
+remove 😝 logging
+fix bug in 😝
+fix possible npe
+fix compilation error
+fix test data
+add check for 😝
+remove unused constant
+remove duplicate call
+fix 😝 😝
+fix failing test
+remove unused code
+fix potential npe
+fix findbugs warning
+fix crash in 😝
+add 😝 start
+fix checkstyle errors
+fix checkstyle issue
+fix failing tests
+fix unit test
+make 😝 public
+remove unused import
+add 😝 to 😝
+fix potential npe
+remove unused code
+fix 😝 😝
+remove debug output
+add 😝 to 😝
+fix 😝 😝
+fix typo in javadoc
+remove obsolete todo
+remove unused imports
+remove 😝 😝
+add a test for 😝
+fix bug in 😝
+remove unnecessary qualified
+fix 😝 😝
+don t show 😝 if we re logged
+remove unused import
+fix bug in 😝
+fix 😝 😝
+don t 😝 😝 😝
+don t show 😝 for 😝 😝
+add a constant
+fix wifi 😝 wifi 😝
+fix a crash in 😝
+don t finish 😝 when 😝 activity
+fix javadoc typos
+add stop method
+tweak upgrade message
+do not overwrite 😝
+don t call focus when 😝
+fix failing test
+add helper method to response
+remove 😝 from 😝
+remove unused import
+add a comment
+fix bug in 😝
+add error handling
+fix 😝 tostring
+add offlineplayer to offlineplayer
+add tostring to 😝
+fix npe in 😝
+add version and version to 😝
+fix 😝 😝
+add 😝 method
+remove ignore from 😝
+fix 😝 😝
+fix failing test
+remove unused imports
+remove unused variable
+fix npe in 😝
+improve abstract factory
+add 😝 to 😝
+do not create 😝 for optional modules
+remove unnecessary todo
+remove unused imports
+fix crash in 😝
+remove unused constant
+remove unused constructor
+fix typo in 😝
+remove unused code
+add 😝 to 😝
+add getter for constraints
+fix crash in 😝
+fix failing tests
+fix potential npe in 😝
+do not show 😝 tasks in 😝
+fix 😝 😝
+fix potential npe
+fix typo in comment
+fix checkstyle errors
+fix bug in 😝
+add 😝 end
+fix failing tests
+fix 😝 😝
+fix compilation error
+remove unused field
+fix checkstyle warning
+fix 😝 😝
+remove unnecessary call
+fix compile issue
+add 😝 to 😝
+fix javadoc errors
+add javadoc to 😝
+smallfix incorporated pr comment
+fix a bug in 😝
+fix typo in javadoc
+fix bug in 😝
+remove 😝 from 😝
+fix failing test
+add missing headers
+move 😝 to 😝
+fix typo in 😝
+do not create 😝 paths for 😝
+remove debug output
+git capitalize dialog title
+fix failing tests
+fix 😝 😝
+remove unused method
+remove unused code
+fix typo in javadoc
+remove unused field
+add 😝 😝
+add 😝 to 😝
+add constants to constants
+fix 😝 😝
+add missing license header
+remove unused field
+😝 implements 😝
+add 😝 scale
+android update 😝
+fix 😝 points
+fix 😝 divider in 😝
+fix bug in 😝
+fix bug in 😝
+eliminate eclipse warning
+fix a bug in 😝
+fix compile error
+add a comment
+add xml validation for bean subsystem
+fix 😝 calculation
+fix npe in 😝
+add 😝 accessor
+fix checkstyle issues
+fix 😝 😝
+fix 😝 issue
+add 😝 method
+add 😝 method
+remove unused variable
+rename 😝 to 😝
+deprecate old methods
+fix intellij warning
+fix javadoc for 😝
+fix failing test
+fix a crash in 😝
+fix typo in 😝
+add view injection
+fix npe in resourceloader
+fix npe in 😝
+fix failing test
+fix error message
+fix failing test
+fix null pointer in 😝
+remove unused import
+fix failing test
+fix 😝 😝
+fix potential npe
+fix potential npe
+fix 😝 😝
+add test for json
+remove unused code
+replace assertion with assertion
+remove unneeded comment
+fix a bug in 😝
+fix npe in 😝
+make 😝 😝 public
+remove unused warning suppression
+rename 😝 to 😝
+remove unused variable
+add a warning
+remove unused constant
+fix typo in javadoc
+remove unused imports
+call finalize before finalize
+remove unused code
+fix failing test
+remove unused code
+fix bug in 😝
+fix memory leak in 😝
+remove 😝 😝
+fix failing test
+fix potential npe
+disable 😝 😝 by default
+make 😝 abstract
+fix 😝 entityref 😝
+remove unnecessary 😝
+do not show modules for modules
+add 😝 to 😝
+add 😝 to 😝
+fix javadoc warning
+add 😝 to 😝
+fix potential npe
+remove unused field
+fix npe in 😝
+don t hide 😝 button if there is no apps
+fix typo in comment
+do not show 😝 for 😝
+disable 😝 in 😝
+remove 😝 logging
+add missing javadoc
+do not show url from 😝
+add renderer to 😝
+fix ide artifacts
+fix 😝 😝
+fix potential npe
+don t log 😝 for 😝
+rename 😝 to 😝
+fix 😝 calculation
+fix a compilation error
+fix javadoc for providers
+remove unused imports
+fix 😝 😝 images
+improve javadoc for 😝
+add license header
+fix bug in 😝
+add a new 😝
+fix possible npe
+add 😝 to 😝
+fix test failures
+remove unused 😝
+improve error reporting
+add 😝 to 😝
+fix 😝 😝
+don t show font icon for 😝
+😝 stack trace for 😝
+add test for 😝
+remove unused imports
+add 😝 to 😝
+fix potential npe
+fix 😝 😝
+remove unnecessary synchronization
+fix failing tests
+fix a bug in 😝
+fix failing test
+remove 😝 😝
+remove test that is not needed
+fix checkstyle errors
+remove unused code
+add a comment
+fix typo in 😝
+remove duplicate cast
+add 😝 to 😝
+remove unused field
+add 😝 option to 😝
+sourceformatter source formatting
+remove 😝 colon
+fix 😝 😝
+fix javadoc errors
+improve error message
+add support for 😝 to 😝
+do not use deprecated createtempfile
+fix bug in 😝
+fix javadoc errors
+fix failing test
+fix flaky test
+fix error message
+add some comments
+fix log message
+fix typo in 😝
+add 😝 to 😝
+remove unused method
+remove 😝 😝
+move 😝 to 😝
+remove unused import
+fix failing tests
+fix failing test
+add missing 😝
+add 😝 to 😝
+don t show 😝 for 😝
+make 😝 gradient 😝 colors
+do not run file from disposed
+fix typo in javadoc
+fix checkstyle error
+add printstacktrace to 😝
+add support for 😝
+fix 😝 😝
+fix editable pack
+fix route leak
+don t show 😝 for 😝 😝
+fix compilation errors
+remove unused constant
+remove unused import
+remove system out
+remove 😝 todo
+remove unused constants
+fix 😝 😝
+fix typo in javadoc
+fix javadoc errors
+fix 😝 😝
+fix npe in 😝
+remove unused method
+don t show fab when 😝 😝
+remove unnecessary call
+add some tests
+remove unused constant
+add some javadoc
+remove unused code
+remove system out
+improved javadoc for 😝
+fix javadoc typo
+add 😝 to 😝
+fix typos in javadoc
+remove unneeded 😝
+remove unused method
+do not restore tag type for 😝
+fix failing tests
+fix 😝 😝
+fix a bug in 😝
+add support for 😝
+fix 😝 😝
+fix npe in 😝
+add 😝 😝
+fix potential npe
+remove unused code
+fix checkstyle warning
+fix 😝 😝
+smallfix remove explicit argument type in 😝
+add 😝 to 😝
+remove 😝 😝
+add 😝 constructors
+add 😝 to 😝
+fix npe in 😝
+remove unnecessary call to 😝
+add 😝 to 😝
+fix typo in javadoc
+remove unused imports
+fix javadoc errors
+don t use a 😝 constant
+add 😝 to 😝
+fix failing test
+fix npe in 😝
+add more more 😝
+add 😝 to 😝
+enable 😝 by default
+fix 😝 tests
+fix typo in javadoc
+fix potential npe
+remove dead code
+remove unused field
+fix quality flaws
+fix crash in 😝
+fix 😝 😝
+fix a bug in 😝
+fix failing tests
+fix typo in 😝
+fix a bug in 😝
+remove unused line
+remove 😝 printstacktrace
+add some comments
+fix findbugs warning
+fix infinite loop in 😝
+remove unused line
+restore ctrl q
+fix 😝 😝
+fix a test bug
+fix failing test
+don t create 😝 for 😝
+fix npe in 😝
+add 😝 to 😝
+fix bug in 😝
+fix npe in 😝
+remove unused constant
+rename 😝 to 😝
+fix potential npe
+fix bug in 😝
+add a todo
+fix a bug in 😝
+remove unused line
+remove debug print
+fix failing test
+fix npe in 😝
+fix javadoc warning
+fix potential npe
+remove unused code
+add deprecated annotation
+fix 😝 😝
+remove debug code
+fix 😝 😝
+fix 😝 😝
+don t show 😝 if not 😝
+fix checkstyle issue
+remove 😝 😝
+remove 😝 from 😝
+remove unnecessary call to 😝
+fix javadoc typo
+use the correct constant
+remove unused code
+fix compilation error
+remove 😝 😝
+fix npe in 😝
+fix bug in 😝
+fix failing test
+don t auto suggest 😝
+fix 😝 😝
+remove unused imports
+fix potential npe in 😝
+add gettext method to 😝
+fix 😝 😝
+fix potential npe
+fix failing test
+remove debug output
+remove obsolete comment
+fix problem with 😝
+remove dead code
+fix a bug in 😝
+remove debug print
+fix notification 😝
+remove unused method
+fix npe in 😝
+remove unused line
+improve assertion message
+ignore unexpected interruptedexception
+add 😝 to 😝
+fix quality flaws
+add 😝 to 😝
+remove 😝 call
+fix a bug where httprequest extension uri is not 😝
+add hashcode method
+remove unnecessary 😝
+add checkreturnvalue to range
+add 😝 to 😝
+remove unused code
+add missing license headers
+make 😝 😝
+add factory method to 😝
+fix 😝 😝
+fix broken test
+remove unused field
+fix possible npe
+remove unused import
+initialize arraylist to 😝
+improve abstract factory
+fix javadoc comment
+add tostring to crouton
+fix npe in 😝
+add 😝 to 😝
+add stderr check
+fix 😝 😝
+fix a bug in 😝
+do not show 😝 for 😝
+add javadoc for contacts
+fix npe in 😝
+add support for dot dot
+fix typo in javadoc
+add a test
+remove unused code
+add 😝 😝
+remove unused constant
+remove unused code
+fix failing tests
+remove unused import
+remove unused code
+remove unused field
+fix failing test
+fix a bug in 😝
+fix nullpointerexception in 😝
+make 😝 public
+fix failing test
+fix possible npe
+remove unused code
+fix failing test
+fix 😝 😝
+fix memory leak in 😝
+fix failing test
+fix javadoc typo
+remove unused code
+remove unused code
+add 😝 to 😝
+fix typo in javadoc
+fix test data
+remove unused method
+fix javadoc warning
+add ability to install 😝 in 😝
+fix failing tests
+fix test on windows
+remove 😝 from 😝
+add missing license header
+fix 😝 in 😝
+fix problem with 😝 connections
+remove unused code
+add javadoc for 😝
+fix possible npe
+fix 😝 tostring
+fix a bug in 😝
+fix lint warning
+make 😝 public
+add 😝 to layer
+fix some build
+don t show unresolved type for 😝
+fix npe in 😝
+fix 😝 😝
+disable 😝 by default
+remove unused code
+fix failing tests
+fix a bug in 😝
+add missing annotations
+remove 😝 from 😝
+fix 😝 😝
+fix a typo in 😝
+add 😝 to 😝
+remove unused constant
+remove unnecessary cast
+add 😝 constructor
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+remove unnecessary assertion
+fix javadoc for fragment
+fix leak in 😝
+fix failing test
+remove public modifier from requestmatcher
+restore profile changes
+fix failing test
+add 😝 to 😝
+avoid unnecessary 😝 😝
+fix npe in 😝
+fix typo in comment
+remove unused field
+add 😝 to 😝
+make 😝 serializable
+fix failing test
+remove 😝 flag
+fix a test failures
+remove 😝 from 😝
+fix failing test
+add missing javadoc
+fix a bug where the 😝 was not 😝
+fix a comment
+add missing override
+fix 😝 😝
+add 😝 method
+fix 😝 😝 position
+fix bug in 😝
+fix failing tests
+fix failing test
+fix potential npe
+remove unused method
+add more info to assertion
+remove unnecessary cast
+fix bug in 😝
+fix 😝 😝
+improved exception message
+remove unused assignment
+remove debug output
+add missing guardedby
+suppress unchecked warning
+remove debug code
+add a comment
+fix 😝 😝
+fix npe in 😝
+add unit test for 😝
+fix javadoc links
+add some annotations
+fix a bug in 😝
+remove unused method
+add 😝 method
+fix crash in 😝
+fix 😝 😝
+remove unnecessary call
+fix crash in 😝
+fix 😝 😝
+fix 😝 😝
+add missing final keyword
+fix bug in 😝
+fix potential npe
+fix possible npe
+fix potential npe
+add missing headers
+fix 😝 test
+fix 😝 😝
+improve error message
+remove unused constant
+remove unused method
+fix 😝 calculation
+do not restrict the url period
+fix failing test
+do not suggest anonymous flag
+changed 😝 to 😝
+fix test cases
+fix maven tests
+fix failing tests
+add test for 😝
+delete old code
+fix a bug where notifications would 😝 am
+fix 😝 😝
+add todo comments
+fix 😝 😝
+incorporated pr comment
+fix npe in 😝
+fix a bug where button would not be lower
+remove 😝 from 😝
+remove unused imports
+fix a bug in 😝
+add 😝 to encodedimage
+remove obsolete comment
+fix 😝 😝
+fix the build
+remove unused field
+fix possible deadlock in 😝
+fix 😝 test
+improved error message
+add 😝 method
+remove static modifier from 😝
+fix notnull check
+fix failing test
+disable 😝 😝
+remove unused code
+add 😝 to 😝
+fix a bug in 😝
+add final to ep_name
+add a comment
+remove unused code
+improved error message
+add 😝 method
+add 😝 😝
+fix failing test
+fix a bug in 😝
+fix a bug where 😝 😝 t 😝 the 😝
+fix npe in 😝
+remove unused field
+add setvisibility setvisibility
+fix a crash in 😝
+fix failing tests
+fix copy paste error
+fix nullpointerexception in 😝
+use the new 😝 style
+fix crash in 😝
+fix 😝 tostring
+fix bug in 😝
+do not use cached path
+don t show 😝 for non 😝 devices
+add support for 😝 😝
+fix log message
+add 😝 to 😝
+fix a bug in bubble
+fix potential npe
+fix test failures
+remove facet from 😝
+don t force 😝 😝
+hide empty list
+fix potential npe
+don t call flush when 😝
+fix failing tests
+add support for canonical 😝
+fix 😝 😝
+remove finest logging
+fix test failures
+remove unused method
+don t allow 😝 to install 😝
+fix failing test
+add tostring to 😝
+add javadoc for event
+updated versions to next release
+don t log 😝 exceptions
+fix 😝 error in 😝
+fix broken test
+remove unused code
+fix a race condition in 😝
+fix failing tests
+fix log message
+add some comments
+add missing javadoc
+fix findbugs warning
+fix stupid bug
+remove notnull annotation
+remove unused method
+fix 😝 😝
+fix failing test
+improved error message
+fix checkstyle issue
+add a couple of todos
+don t show 😝 for 😝
+make glide 😝
+fix potential npe
+fix compilation error
+don t use deprecated arraycopy
+remove 😝 logging
+fix 😝 😝
+make 😝 😝 public
+fix compilation error
+make 😝 public
+fix npe in 😝
+remove 😝 from 😝
+fix bug in 😝
+do not create maven tasks in dumb mode
+fix a bug in 😝
+fix typo in javadoc
+add timeout to 😝
+improved error handling
+remove unneeded comment
+add 😝 to 😝
+don t show 😝 popup when logged
+remove unused field
+add a todo
+fix 😝 in 😝
+fix 😝 😝
+make 😝 extend 😝
+remove unnecessary application
+fix test case
+make 😝 public
+add missing call to notifydatasetchanged
+fix 😝 😝
+remove unnecessary commit
+add serviceutils 😝 method
+fix a bug where 😝 😝 t returns a 😝
+fix log message
+add a comment
+fix 😝 😝
+fix typo in javadoc
+updated version number
+fix 😝 😝
+add more debug info to info
+fix npe in 😝
+fix javadoc typos
+add 😝 to 😝
+add 😝 method
+don t show ime 😝 animations
+make parser public
+fix npe in 😝
+fix failing test
+marked 😝 as 😝
+remove unused code
+fix failing tests
+fix failing test
+remove unnecessary 😝
+fix javadoc warning
+fix test cases
+add 😝 to 😝
+fix bug in 😝
+remove unused code
+add 😝 😝
+remove unused code
+fix a bug in 😝
+add javadoc for 😝
+add error message for unsupported failure
+fix 😝 😝
+fix a todo
+fix typo in javadoc
+make 😝 😝 public
+remove unused method
+fix a bug in 😝
+fix bug in 😝
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+don t clean 😝 on ioexception
+fix failing tests
+remove unused imports
+fix issue with 😝
+fix fc in 😝
+increased wait time
+do not show 😝 in headless mode
+fix npe in 😝
+remove system out
+fix test data
+add a todo
+remove unused variable
+remove unused method
+add statement for 😝
+use new bundle
+add 😝 to 😝
+fix npe in 😝
+fix crash in 😝
+fix unit test
+fix 😝 😝
+remove unused import
+make 😝 public
+fix 😝 setpadding
+fix 😝 😝
+fix javadoc for 😝
+fix 😝 😝
+remove unused code
+remove useless 😝
+fix error message
+add a bit more logging
+add a comment
+add 😝 😝
+fix npe in 😝
+fix failing test
+fix potential deadlock
+fix bug in 😝
+fix a compilation error
+remove unused code
+fix 😝 😝
+fix failing test
+fix 😝 😝
+add more logging to 😝
+fix crash in 😝
+fix 😝 😝
+explicitly refresh 😝 on 😝
+fix a bug in 😝
+don t show toolbar button if not shown
+do not overwrite 😝
+fix potential npe
+fix checkstyle warning
+fix unit test
+log error message when init fails
+fix typo in javadoc
+bump 😝 period
+fix typo in 😝
+remove 😝 😝
+improve assertion message
+remove unnecessary 😝
+ignore failing test
+fix 😝 😝
+add a error message for 😝
+fix potential npe
+don t show 😝 for 😝
+fix test failures
+fix bug in 😝
+fix errortype 😝
+remove background background
+remove unused code
+add a checkargument checkargument method
+fix checkstyle issue
+fix a typo
+add support for 😝
+don t use deprecated 😝 method
+add 😝 to 😝
+fix failing tests
+fix a bug in 😝
+remove unused field
+remove unused import
+fix bug in 😝
+fix a bug in 😝
+remove unused imports
+fix log message
+fix 😝 😝
+fix typo in javadoc
+fix 😝 in 😝
+fix possible npe
+fix roster 😝
+remove unused constant
+add a new method to gettext
+fix a bug in 😝
+improved log messages
+fix 😝 😝
+add getter for 😝
+remove unused code
+improved error handling
+move 😝 to 😝
+fix 😝 😝
+fix bug in 😝
+fix bug in 😝
+fix failing test
+add nonnull annotation
+remove deprecated method
+remove unused code
+remove unused method
+updated version number
+fix 😝 operator
+remove unused import
+don t show modal toolbar for project
+remove system out println
+fix 😝 😝
+remove debug output
+remove 😝 😝
+fix failing tests
+make 😝 public
+fix small bug
+fix npe in 😝
+fix failing tests
+remove unused imports
+remove unused code
+rename 😝 to 😝
+add 😝 to event
+fix javadoc for 😝
+don t 😝 😝
+fix small bug
+add 😝 😝 setting
+add 😝 😝
+remove debug code
+fix failing test
+fix unit test
+don t 😝 😝 if it s not initialized
+add 😝 to 😝
+smallfix remove explicit type argument in 😝
+fix maven tests
+remove unused word
+add 😝 to 😝
+remove unused imports
+fix failing test
+remove unused method
+remove 😝 from 😝
+remove unused imports
+fix crash in 😝
+fix npe in 😝
+add a comment
+upgrade topic id
+remove deprecated method
+fix compilation error
+fix fc in 😝
+fix cs errors
+fix potential npe
+fix npe in connectivityservice
+fix autobuffer 😝
+eliminate eclipse warnings
+fix typo in javadoc
+fix bug in 😝
+fix findbugs warning
+remove unused import
+fix 😝 😝
+add 😝 to 😝
+add timeout to 😝
+remove unused code
+remove unused import
+fix bug in 😝
+add 😝 to 😝
+fix nullpointerexception in 😝
+fix bug in 😝
+fix 😝 😝
+add tostring method
+fix npe in 😝
+add missing test
+fix thumb clear
+fix npe in 😝
+do not inspect files from 😝
+fix potential npe
+fix 😝 😝
+add helper to preferencemanager method
+don t increment chunk if 😝
+fix error in 😝
+don t show ime 😝 hardware when hardware 😝
+fix javadoc typo
+remove 😝 logging
+fix 😝 test
+clarified javadoc for 😝
+remove unneeded method
+fix a bug in 😝
+remove unnecessary call
+remove deprecated 😝
+fix checkstyle errors
+remove unnecessary logging
+remove unused code
+remove 😝 😝
+fix 😝 😝
+don t set 😝 if not 😝
+fix 😝 😝
+add 😝 to 😝
+fix failing test
+remove unused code
+fix potential npe
+fix see typo
+fix 😝 😝
+remove dead code
+make 😝 public
+fix 😝 😝
+remove unused code
+smallfix remove explicit type argument in 😝
+fix 😝 😝
+fix compile problems
+fix test failures
+remove unneeded setfocusable
+fix a bug in 😝
+fix a bug in 😝
+add 😝 to calendar
+fix a bug in 😝
+fix bug in 😝
+don t send 😝 to 😝
+fix npe in 😝
+made 😝 final
+fix deadlock in 😝
+fix failing test
+fix compilation errors
+fix 😝 😝
+fix 😝 😝
+fix nullpointerexception in 😝
+fix 😝 😝
+add a 😝 method
+add 😝 to 😝
+fix bug in 😝
+add retention to index
+remove unused code
+don t create 😝 as extension
+add cancel cancel
+fix findbugs warning
+remove unused field
+remove unused code
+remove unused constants
+don t throw exception if 😝 is not available
+fix javadoc typo
+fix potential npe in 😝
+add 😝 😝
+fix bug in 😝
+don t show empty 😝
+fix 😝 😝
+implemented 😝 to 😝
+fix bug in 😝
+fix checkstyle issue
+fix potential npe
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix memory leak in 😝
+fix 😝 😝
+fix crash in 😝
+don t show 😝 until loading
+fix 😝 😝
+add missing break
+fix potential npe
+fix typo in javadoc
+fix log message
+add 😝 to 😝
+add 😝 😝
+add 😝 to 😝
+fix 😝 scroll
+add 😝 to 😝
+fix javadoc warning
+fix 😝 test
+fix null handling in 😝
+😝 😝 😝
+fix possible npe
+remove unneeded import
+fix 😝 😝
+fix bug in 😝
+fix 😝 in 😝
+remove unused code
+remove unused code
+fix javadoc for 😝
+fix failing test
+add 😝 to 😝
+do not show inline for 😝
+fix 😝 rendering
+fix a bug in 😝
+fix javadoc errors
+fix typo in 😝
+fix potential npe
+add a comment
+add support for 😝 dot
+make transformation public
+remove 😝 hint
+fix 😝 😝
+fix compile error
+fix unit test
+add license header
+don t show 😝 when ime is hidden
+remove 😝 😝
+remove unused code
+don t clear foreground profiles
+remove unused constant
+throw exception if varchar is not valid
+move 😝 to 😝
+fix 😝 😝
+remove unused imports
+😝 extends 😝
+don t save empty strings
+remove unused variable
+make 😝 public
+don t invalidate systemui when 😝
+add info logging
+add 😝 to 😝
+do not update 😝 toolwindow
+fix bug in 😝
+fix bug in 😝
+add geturl for 😝
+fix eclipse warning
+remove unused code
+handle exceptions thrown by 😝
+fix 😝 test
+fix bug in 😝
+remove dead assignment
+throw exception if 😝 is not 😝
+remove unnecessary cast
+fix test data
+add a new setting for 😝 setting
+remove unused constructor
+fix failing tests
+don t show menu button for dialog
+add appcompatactivity to appcompatactivity
+fix potential npe
+fix npe in 😝
+hide options button if no devices available
+remove unused method
+add 😝 to 😝
+remove unused icons
+clarify 😝 😝
+fix wrong logic
+fix a bug in 😝
+remove 😝 from 😝
+fix javadoc errors
+do not validate intellij exceptions
+fix potential npe
+fix compilation errors
+eliminate eclipse warning
+fix javadoc typo
+fix some eclipse warnings
+add possibility to specify relative action
+remove unused method
+fix potential npe
+fix error message
+add order to 😝
+fix 😝 😝
+fix unit test
+inline 😝 😝
+fix failing test
+fix potential deadlock in 😝
+add 😝 to 😝
+fix checkstyle issue
+improved error message
+do not show empty links
+add 😝 to 😝
+fix layer 😝
+fix intellij warning
+fix exception in 😝
+fix typo in javadoc
+fix failing test
+don t show 😝 on 😝
+fix a crash in 😝
+remove unused method
+delete unused method
+add split tostring method
+add a comment
+add 😝 method
+fix potential npe
+remove unused line
+don t show 😝 if 😝 😝
+add 😝 setalpha
+remove 😝 tostring
+fix 😝 😝
+fix crash in 😝
+fix a bug in 😝
+add getname method to 😝
+fix checkstyle issue
+fix npe in 😝
+fix a crash in 😝
+replace throwable with runtimeexception
+fix bug in 😝
+temporarily ignore 😝
+add some comments
+add 😝 to 😝
+fix 😝 😝
+add 😝 to 😝
+fix resource title
+fix bug in 😝
+fix bug in 😝
+do not create non dumb aware identifier
+remove unneeded code
+remove unnecessary call to true
+do not create 😝 for 😝 files
+fix capability capability
+add missing license header
+fix checkstyle warning
+add 😝 to 😝
+fix 😝 tests
+fix crash in 😝
+remove 😝 😝
+remove unused imports
+fix failing tests
+add todo comment
+remove unused import
+fix potential npe
+remove invalidate from 😝
+fix potential npe
+add 😝 to 😝
+add assertion to bootstrap
+fix typo in javadoc
+fix test cases
+dispose 😝 😝
+do not overwrite extension from disposed
+fix npe in 😝
+remove log trace
+clarified javadoc for gettext in solo and viewfetcher
+don t force 😝 😝
+add license header
+fix bug in 😝
+fix a bug in 😝
+remove system err
+add guardedby to 😝
+improve error reporting
+fix typo in javadoc
+fix 😝 😝
+remove unnecessary 😝
+fix 😝 😝
+fix bug in 😝
+fix failing test
+fix 😝 😝
+add a todo
+don t create 😝 if we re 😝
+add a comment
+fix camera rotate
+add 😝 annotation
+fix checkstyle issue
+fix bug in 😝
+fix failing tests
+fix checkstyle errors
+fix the build
+fix log message
+fix javadoc typo
+don t highlight refs 😝 expressions
+fix nullpointerexception in 😝
+fix error message
+fix possible npe
+add 😝 to 😝
+remove system out
+add 😝 to 😝
+add flag to 😝
+fix typo in javadoc
+smallfix remove explicit type argument in world
+fix potential npe
+add 😝 option to 😝
+remove 😝 hack
+remove unused code
+fix calculation for 😝
+fix potential npe
+remove unused constant
+fix a bug in 😝
+add missing license header
+add more documentation
+fix npe in 😝
+fix 😝 in 😝
+fix failing tests
+fix a bug where the 😝 😝 button would be 😝
+remove 😝 comment
+add a todo
+remove unused import
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused line
+remove unused variable
+remove unneeded cast
+fix test failures
+fix failing test
+fix failing test
+fix assertion in 😝
+fix exception message
+remove unused code
+fix 😝 😝
+fix 😝 in 😝
+remove unused import
+fix npe in 😝
+fix failing tests
+fix merge conflict
+remove unused method
+add 😝 to 😝
+remove redundant 😝
+remove unused import
+remove unnecessary test
+remove unused method
+don t paint background 😝
+fix npe in 😝
+remove unnecessary logging
+fix 😝 😝
+add 😝 to 😝
+fix 😝 😝
+fix npe in 😝
+add 😝 to 😝
+remove useless call
+add a todo
+remove 😝 from 😝
+remove unused code
+smallfix remove redundant initializer in 😝
+fix log message
+fix small bug
+skipping failing test
+remove unused imports
+add camera camera
+remove unused code
+fix npe in 😝
+don t throw an exception if inputs is not present
+fix 😝 test
+remove 😝 from 😝
+fix typo in 😝
+fix a comment
+add 😝 to 😝
+fix failing tests
+add 😝 to 😝
+remove unused code
+don t use 😝 if 😝 isn t present
+remove leftover println
+do not create python 😝 for python dialogs
+add getstate method to 😝
+remove static modifier from 😝
+remove unused import
+add missing javadoc
+remove obsolete todo
+remove unused code
+fix a bug in 😝
+sourceformatter ignore 😝
+fix 😝 😝
+fix 😝 😝
+smallfix remove explicit argument type in fileutils
+fix 😝 😝
+add 😝 to 😝
+remove unused code
+add missing license headers
+fix 😝 😝
+ignore 😝 😝
+fix 😝 😝
+add support for 😝 😝
+fix failing test
+fix failing test
+add 😝 methods
+remove unneeded code
+remove unused import
+remove unused method
+add missing license header
+fix javadoc typo
+fix bug in 😝
+remove log line
+fix 😝 😝
+fix quality flaw
+don t print console
+remove dead assignment
+replace assertion with assertion
+remove unused code
+fix test failures
+add 😝 to 😝
+fix npe in 😝
+fix potential npe
+remove unused code
+fix possible npe
+remove unused variable
+remove unused constant
+add support for 😝
+add empty constructor to 😝
+remove unused field
+fix a typo in 😝
+remove unused code
+add suppresswarnings annotation
+eliminate eclipse warning
+fix cs issues
+fix 😝 😝
+fix typo in javadoc
+remove debug output
+make 😝 😝 public
+fix typo in 😝
+fix a bug in 😝
+changed 😝 to public
+remove unused code
+add 😝 suffix to 😝
+fix 😝 😝
+remove todo comment
+suppress unchecked warning
+add unit test
+remove unnecessary 😝
+fix potential npe in 😝
+remove unused imports
+remove 😝 from 😝
+do not wrap 😝 exceptions
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+remove unused field
+fix npe in feeditem
+fix npe in 😝
+remove a println
+throw exception if 😝 is null
+fix javadoc typo
+fix 😝 😝
+remove unused import
+fix the build
+add a test for 😝
+add document to document
+fix 😝 😝
+fix broken test
+fix logging error
+add 😝 to 😝
+fix failing test
+fix vertical scroll bar thumb position
+add 😝 to 😝
+fix bug in 😝
+remove unused field
+fix findbugs warning
+fix bug in 😝
+fix npe in 😝
+add 😝 to contactscontract
+smallfix remove explicit type argument in 😝
+remove unused import
+add register to eventbus
+remove unused method
+do not create psi for scopes
+add license header
+fix javadoc for 😝
+add constant constant
+remove unused import
+fix zoom zoom 😝
+add 😝 😝
+fix crash in 😝
+do not resolve psi references expressions
+fix broken build
+fix a bug in 😝
+add missing license header
+fix failing tests
+deprecate unused code
+do not highlight 😝 expressions
+add 😝 to 😝
+fix javadoc warning
+fix 😝 😝
+fix potential npe
+fix test case
+fix 😝 😝 images
+don t show 😝 for 😝
+fix bug in 😝
+don t wait idle 😝 timeout
+add 😝 method to 😝
+fix a bug in 😝
+remove unused method
+remove unused import
+remove unused imports
+fix checkstyle problems
+remove unused method
+remove unused method
+add a comment
+remove unused code
+fix npe in 😝
+fix compilation errors
+fix 😝 😝
+remove unused line
+add a getcontentlength method to httpservletrequestwrapper the httpservletrequestwrapper
+fix 😝 😝
+fix bug in 😝
+remove unused method
+add a line
+fix potential npe
+fix potential deadlock
+set default value
+define constants for 😝 😝
+fix potential npe
+fix potential npe in 😝
+catch exception thrown in 😝
+fix failing test
+fix failing unit test
+don t collect 😝
+fix error message
+fix 😝 😝
+fix bits 😝
+fix javadoc typo
+fix typo in javadoc
+add 😝 😝
+don t show 😝 button on 😝
+remove unused code
+remove redundant method
+remove unnecessary setsize
+fix 😝 😝
+remove 😝 from 😝
+fix failing tests
+fix 😝 😝
+fix javadoc typo
+fix 😝 😝
+fix potential npe
+fix 😝 😝
+fix potential npe in 😝
+fix div in 😝
+fix 😝 calculation
+add channels function to channels
+add sslhandler to sslhandler
+fix line separators
+don t show 😝 if 😝 is hidden
+fix potential npe
+fix 😝 logger
+fix 😝 test
+fix typo in javadoc
+fix weird 😝
+handle 😝 exceptions
+make 😝 public
+fix typo in 😝
+fix 😝 alignment
+fix javadoc errors
+remove unused constructor
+fix javadoc typo
+remove unused constant
+fix a bug in 😝
+remove unused import
+fix 😝 😝
+fix 😝 😝
+remove unused field
+remove unused variable
+fix complete complete
+remove unused constant
+fix a bug where 😝 😝 t 😝
+remove unused code
+fix checkstyle issue
+fix 😝 😝
+fix license headers
+don t show 😝 for 😝
+remove system out
+fix broken test
+fix a compilation error
+fix failing tests
+add support for res 😝
+fix 😝 test
+fix potential npe
+fix 😝 😝
+remove unused imports
+fix potential npe
+add 😝 😝
+fix potential npe
+fix 😝 tostring
+remove unused parameter
+fix intellij warning
+remove 😝 😝
+do not move files from 😝
+don t use deprecated intent
+fix cs issues
+fix 😝 😝
+remove unused code
+fix a typo in 😝
+remove system out
+fix possible npe
+fix 😝 😝
+add missing method
+remove unused constants
+fix a bug in 😝
+fix the build
+fix a bug where animations was not fully remove
+fix cs errors
+add test for 😝
+add author tag
+remove unused code
+fix potential npe
+fix bug in 😝
+don t throw exception when 😝 😝
+remove system out
+add title to 😝
+add ability to install 😝
+fix failing test
+remove 😝 logging
+make constructor public
+fix possible npe
+fix typo in javadoc
+😝 extends 😝
+make 😝 public
+fix merge conflict
+add timeout to 😝
+fix 😝 😝
+fix 😝 😝
+fix 😝 😝
+remove log message
+remove obsolete todos
+fix 😝 in 😝
+remove system out
+add 😝 😝
+fix 😝 😝
+suppress deprecation warning
+fix npe in 😝
+add 😝 constructor
+add 😝 method
+remove unused imports
+fix bug in 😝
+fix potential infinite loop
+add a comment
+fix bug in 😝
+ignore failing test
+remove unused field
+remove unused method
+remove unused code
+remove unused variable
+add 😝 to 😝
+fix 😝 😝
+remove unused code
+add 😝 to 😝
+fix crash in 😝
+remove unused code
+add ability to install 😝
+remove unused imports
+fix broken test
+add log message
+fix potential npe
+remove unused code
+make searchview protected
+add title to 😝
+fix broken test
+remove unused todo
+do not extract 😝
+fix potential npe
+fix potential npe
+fix checkstyle warning
+delete hardcoded 😝
+do not wrap interruptedexception
+do not create 😝 for 😝 files
+fix nullpointerexception in 😝
+remove unused code
+add 😝 method
+fix potential npe
+add 😝 to mediafile
+add tostring method to 😝
+fix javadoc errors
+fix 😝 😝
+fix a bug in 😝
+remove unused code
+add module to 😝
+remove unused code
+fix a bug in 😝
+fix typo in const java
+fix bug in 😝
+remove unused field
+fix possible npe
+fix 😝 😝
+remove unused constant
+remove dead code
+fix zipfile leak
+add a comment
+fix 😝 😝
+add getcontextpath method
+remove deprecated annotation
+fix compilation error
+remove unused method
+do not use deprecated 😝
+remove 😝 😝 call
+fix npe in 😝
+fix failing tests
+fix 😝 test
+fix typo in javadoc
+improve exception message
+fix 😝 😝
+remove unused constant
+fix 😝 😝
+add 😝 to entity
+fix 😝 😝
+fix potential npe
+log error message
+fix a compilation error
+log exit stack trace
+make activitymanager public
+add tostring to 😝
+remove unnecessary call to 😝
+fix checkstyle errors
+fix 😝 😝
+add 😝 to 😝
+add javadoc for 😝
+fix crash in 😝
+fix npe in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix findbugs warning
+add some javadoc
+fix npe in 😝
+add test for 😝 users
+add a 😝 method
+fix findbugs warning
+fix a bug in 😝
+remove 😝 logging
+add 😝 to 😝
+fix typo in javadoc
+move 😝 to org core package
+don t create empty list
+add support for 😝 creator names
+updated rollback annotation
+add shadow 😝
+fix quality flaws
+don t throw an exception when trying to draw a settings
+add interpolator to 😝
+fix npe in 😝
+add 😝 to 😝
+remove unused method
+fix npe in 😝
+fix typo in 😝
+fix potential npe
+remove unused imports
+fix npe in 😝
+fix a bug where the 😝 button had no default visibility
+remove 😝 logging
+add utility method to 😝
+fix npe in 😝
+remove dead code
+remove unneeded gap
+add 😝 to 😝
+fix failing tests
+smallfix remove explicit parameter type in tachyonfs
+add helper constructor to 😝
+fix npe in 😝
+add 😝 method
+fix typeelement in typeelement
+remove unused field
+remove unused code
+fix possible npe
+fix 😝 test
+don t throw exceptions on 😝
+remove unused record
+fix potential npe
+add null checking to 😝
+fix crash in fragment 😝
+remove unused connector
+add missing license header
+fix a bug in 😝
+add support for collection types
+fix 😝 😝
+add a little more logging
+remove 😝 from 😝
+add some constants
+fix typo in comment
+fix bug in 😝
+fix bug in 😝
+don t resolve template members in 😝
+fix potential deadlock in stop
+don t show 😝 when ime is hidden
+remove unused field
+fix checkstyle issue
+remove unneeded check
+fix a bug in 😝
+don t log 😝 documents
+fix 😝 😝
+add javadoc for 😝
+fix 😝 😝
+fix crash in 😝
+fix potential npe
+fix javadoc typos
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+make 😝 public
+add 😝 to cookie
+fix javadoc warning
+don t reset 😝 on 😝
+fix npe in 😝
+don t show 😝 until it s destroyed
+fix 😝 😝
+fix missing space
+fix typo in javadoc
+add 😝 to 😝
+do not show 😝 😝 in 😝
+fix 😝 😝
+add tostring to 😝
+fix npe in 😝
+remove unused method
+throw iae if scale is not dynamic
+remove 😝 😝
+fix bug in peek
+fix 😝 in 😝
+fix npe in 😝
+fix license header
+remove unused import
+fix npe in 😝
+fix failing test
+add 😝 method to 😝
+add rand method
+remove unused import
+add 😝 to drawer
+remove unused constant
+wrap the error message
+fix 😝 😝
+fix bug in 😝
+fix 😝 😝
+remove 😝 from 😝
+remove 😝 from 😝
+fix checkstyle errors
+fix potential npe
+remove unused code
+add query to graph
+fix possible npe
+add 😝 to 😝
+fix javadoc issue
+remove unused code
+fix possible npe
+remove unused code
+make get get public
+fix failing test
+add update 😝
+fix potential npe
+fix a typo in docs
+fix log message
+add 😝 to 😝
+fix bug in 😝
+remove 😝 warning
+fix checkstyle issue
+fix compile error
+fix leak in tests
+fix typo in javadoc
+remove 😝 call
+fix 😝 😝
+add 😝 getclassname
+restore 😝 fields
+fix potential npe
+remove 😝 from 😝
+fix failing tests
+remove unused field
+remove unused field
+fix 😝 😝
+remove dead code
+test fix a bug in 😝
+add address to 😝
+fix a bug in 😝
+remove unused method
+add support for driver 😝
+remove unused code
+don t show 😝 for 😝 directories
+fix potential npe
+remove unused code
+add 😝 to leg
+fix potential npe
+remove unused imports
+add accessor for 😝
+fix a bug in 😝
+fix a bug where 😝 😝 returns false
+remove unused constant
+fix potential npe
+fix potential npe
+add a comment
+remove unused field
+fix test data
+add 😝 to 😝
+fix a bug in 😝
+add a todo
+add 😝 to 😝
+fix bug in 😝
+remove unneeded cast
+fix 😝 test
+fix test failure
+remove unused code
+fix bug in 😝
+fix arrayindexoutofboundsexception in 😝
+fix bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix 😝 😝
+remove unused import
+fix es 😝 test
+fix potential npe
+remove 😝 from 😝
+fix failing test
+print exception when 😝 fails
+fix 😝 exception handling
+fix 😝 😝
+fix failing test
+fix potential deadlock in 😝
+fix failing test
+fix invoker in invoker
+remove obsolete comment
+sourceformatter source formatting
+remove unused code
+fix 😝 tostring
+fix a bug where notifications doesn t rotate 😝
+smallfix remove explicit type argument in 😝
+fix potential npe
+add 😝 to 😝
+remove unused code
+fix potential npe
+fix javadoc typo
+fix the build
+fix failing test
+remove unused line
+fix 😝 😝
+remove debug output
+fix potential npe
+fix layerdrawable layerdrawable
+add javadoc for 😝
+fix compilation error
+remove unnecessary map
+add stop to 😝
+add 😝 to 😝
+fix 😝 😝
+fix possible npe
+fix 😝 release
+add javadoc for 😝
+fix problem with 😝
+fix log message
+fix failing test
+fix bug in 😝
+remove unused code
+fix bug in 😝
+suppress unchecked warning
+fix crash in fragmentactivity
+add catch handling of 😝
+don t log delayed actions in 😝
+fix unchecked warning
+don t use 😝 😝
+fix failing test
+remove useless error
+remove unused constants
+remove unused tag
+make 😝 😝
+add 😝 to 😝
+remove unused code
+remove unused imports
+fix 😝 😝
+fix failing tests
+do not auto 😝 tasks
+fix 😝 😝
+fix a problem with 😝 😝
+remove unnecessary repaint
+add support for 😝
+remove duplicate methods
+fix a bug with 😝 animations
+fix bug in 😝
+moved org bukkit vector vector to org bukkit util util util util util util
+remove old todo
+register the 😝
+add missing constructor
+fix 😝 😝
+fix a bug in 😝
+fix 😝 😝
+fix a bug in 😝
+add node gettype to node
+fix a bug in 😝
+remove duplicate whitespace
+remove unnecessary suppression
+do not create 😝 for 😝
+add constructor to 😝
+add override annotation
+fix typo in javadoc
+don t show 😝 icon for 😝
+remove unnecessary modifier
+add 😝 method
+remove debug output
+fix mistake mistake
+fix typo in javadoc
+fix bug in 😝
+fix a bug in 😝
+fix 😝 😝
+remove log message
+fix possible npe
+remove unused code
+don t show 😝 for 😝
+fix potential npe
+add a null check
+remove unnecessary 😝
+smallfix remove explicit type argument in 😝
+fix checkstyle issue
+remove debug log
+fix 😝 😝
+remove unused constructor
+fix test failures
+add test annotation
+fix problem with 😝
+add 😝 to 😝
+fix a bug where notifications would 😝
+fix potential npe
+remove 😝 methods
+remove unused code
+add missing override annotations
+fix memory leak
+remove 😝 logging
+fix javadoc warning
+changed 😝 to use https
+remove dead code
+add 😝 method
+add 😝 callback
+don t use deprecated method
+add getid getid
+fix error message
+fix memory leak
+don t show 😝 on 😝
+improved exception message
+fix checkstyle issue
+remove author tags
+fix potential npe in 😝
+remove unused method
+fix log message
+remove unused code
+fix 😝 😝
+fix a crash in 😝
+add 😝 to 😝
+fix bug in 😝
+add 😝 method to 😝
+fix test failures
+fix typo in javadoc
+add 😝 to 😝
+add 😝 to 😝
+fix typo in 😝
+remove system out
+fix bug in 😝
+add 😝 to 😝
+fix 😝 😝
+fix potential deadlock
+remove unused code
+fix 😝 😝
+fix failing test
+add 😝 method
+remove debug log
+remove unused constant
+remove debug output
+fix npe in 😝
+fix a bug in 😝
+fix typo in 😝
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+add 😝 to 😝
+remove 😝 logging
+fix npe in 😝
+fix unit test
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+do not paint 😝
+add 😝 to 😝
+fix npe in 😝
+detach 😝 😝
+do not show non dumb problems
+fix javadoc warning
+remove debug output
+fix bug in 😝
+fix failing test
+fix 😝 😝
+remove unused import
+add 😝 to 😝
+remove unused code
+remove unused method
+add support for cluster bus
+catch 😝 exceptions
+fix unit test
+remove unused code
+add tostring methods to 😝
+fix failing tests
+fix bug in 😝
+disable some 😝
+remove unused code
+add missing override annotation
+fix checkstyle errors
+add 😝 😝
+help help options
+fix 😝 😝
+ignore flaky test
+add intent to 😝
+fix a bug in 😝
+disable 😝 commands on mac desktop desktop
+fix 😝 testcase
+add 😝 method
+fix potential npe
+fix bug in 😝
+add callbacks to callbacks
+add close method
+remove unused constructor
+fix compilation error
+add 😝 to 😝
+remove unused method
+fix checkstyle errors
+add 😝 to 😝
+remove unused constructor
+fix 😝 😝
+don t use 😝 for 😝
+fix 😝 😝
+fix npe in 😝
+fix 😝 calculation
+fix 😝 😝
+fix 😝 😝
+fix possible npe
+remove 😝 from 😝
+add 😝 method
+add 😝 to 😝
+fix failing tests
+fix 😝 tostring
+add entity remove remove method
+remove deprecated annotation
+fix 😝 😝
+add 😝 to 😝
+remove unused code
+add missing license header
+remove unused import
+add check for 😝
+fix bug in 😝
+fix npe in 😝
+remove unnecessary call
+fix npe in 😝
+fix typo in javadoc
+remove log info
+fix license header
+fix potential npe
+fix failing test
+fix 😝 reporting
+remove unused variable
+remove unused constant
+do not break attachments
+fix possible npe
+remove unused code
+fix 😝 😝
+improved javadoc for 😝
+fix npe in 😝
+add a todo
+clarified javadoc for 😝 in solo and clicker
+remove 😝 modification
+add 😝 to 😝
+add card url to 😝 intent
+fix failing tests
+fix log message
+fix test data
+😝 extends 😝
+add 😝 😝
+don t show 😝 for 😝
+marked some 😝 😝
+remove unused import
+remove unused import
+fix a bug in 😝
+don t validate members if expression is null
+fix typos in javadoc
+add 😝 to 😝
+add license header
+fix failing test
+add documented annotation
+add unit test
+improved error message
+add 😝 to 😝
+add a debug statement
+fix bug in 😝
+remove unused import
+fix npe in 😝
+fix a compilation error
+don t resume 😝 in tests
+remove obsolete code
+fix 😝 😝
+remove duplicate method
+fix bug in 😝
+fix help text for 😝
+use the correct package names in applicationconfig
+add serializable to device
+remove 😝 from 😝
+fix bug in 😝
+fix potential npe
+fix bug in 😝
+remove unused code
+remove deprecated annotation
+fix nullpointerexception in 😝
+add elementtype annotation to metric
+fix checkstyle warning
+fix log message
+fix javadoc typos
+add exception logging
+fix npe in 😝
+fix possible npe
+fix javadoc warning
+make viewholder public
+remove unused code
+make setstatus setstatus public
+add a comment
+fix broken test
+fix a crash in 😝
+add 😝 to 😝
+hide show action action only once
+don t throw 😝 exceptions in 😝
+add teardown to 😝
+remove dead assignment
+improve error message
+fix possible npe
+fix a bug in 😝
+remove unnecessary logging
+fix possible npe
+remove unused method
+fix log level
+fix a bug in 😝
+fix possible race condition in 😝
+remove 😝 debugging
+log 😝 permissions
+fix potential npe
+fix compilation errors
+remove unused code
+fix typo in javadoc
+fix intellij warning
+remove unnecessary call to 😝
+remove unused code
+fix failing tests
+fix bug in 😝
+fix infinite loop
+fix bug in 😝
+remove unused import
+remove unused method
+don t show 😝 for 😝 😝
+fix potential npe
+remove deprecated code
+remove duplicate 😝
+fix bug in 😝
+remove illegal printstacktrace
+remove unused line
+improved error logging
+fix typo in 😝
+remove unused code
+remove unneeded comment
+fix 😝 😝
+make 😝 😝 final
+fix material material material
+fix 😝 tostring
+remove warn from 😝
+fix memory leak
+don t throw an exception when trying to follow a transaction
+fix some warnings
+add logging for 😝
+fix findbugs warning
+fix failing test
+remove unused method
+fix npe in 😝
+don t show 😝 for 😝
+fix 😝 😝
+fix typo in comment
+remove obsolete comment
+add utility method for 😝
+fix npe in 😝
+add 😝 to 😝
+add a comment
+remove unnecessary call
+fix possible npe
+fix potential npe
+add author tag
+rename 😝 to 😝
+remove unused import
+fix bug in 😝
+rename 😝 to 😝
+add 😝 to 😝
+remove unused imports
+fix log message
+fix findbugs issue
+add 😝 to 😝
+fix a bug where the 😝 button 😝 t get amount
+😝 extends 😝
+don t use 😝 😝 to determine directories
+fix npe in 😝
+fix potential npe
+fix 😝 😝
+fix 😝 test
+fix 😝 😝
+fix log message
+don t show progressbar when 😝 😝
+add 😝 😝
+add a comment
+fix bug in 😝
+fix 😝 message
+add 😝 to 😝
+fix test data
+remove dead code
+do not show 😝
+fix bug in 😝
+fix failing test
+fix possible npe
+add 😝 to 😝
+fix bug in 😝
+fix typo in javadoc
+fix 😝 😝
+remove unused field
+make mrtask block public
+fix 😝 😝
+fix bug in 😝
+fix bug in 😝
+fix javadoc typo
+fix 😝 😝
+fix problem with 😝 😝
+add a 😝 method
+fix compilation error
+fix npe in 😝
+fix language text
+fix intellij warning
+don t show 😝 button when 😝 😝
+fix potential npe
+add 😝 😝
+fix bug in 😝
+fix failing test
+fix bug in 😝
+add 😝 method
+fix 😝 calculation
+fix typo in javadoc
+fix memory leak
+add more logging to 😝
+don t recycle promise if 😝 is false
+fix possible npe
+remove unused import
+fix 😝 😝
+add 😝 to 😝
+fix javadoc typo
+fix 😝 😝
+don t use the deprecated 😝 method
+fix failing tests
+add support for 😝
+fix broken test
+😝 extends 😝
+ignore failing test
+remove notnull annotation
+add more debugging info
+don t create a languages for 😝
+remove unused variable
+fix a bug in 😝
+fix cs error
+fix javadoc typos
+don t show a 😝 when 😝 😝
+fix 😝 update
+add 😝 annotation to 😝
+fix 😝 😝
+improve test coverage
+add 😝 to 😝
+remove unused code
+rename 😝 to 😝
+add 😝 to 😝
+remove unused line
+make 😝 final
+remove debug output
+fix a typo in language javadoc
+improved error message
+make 😝 public
+remove commented out code
+fix license header
+fix 😝 😝
+fix license header
+remove unused code
+don t use keywords in 😝
+fix bug in 😝
+add label label label
+remove unused code
+remove unused field
+fix log message
+remove unused import
+remove unused imports
+make 😝 methods public
+fix typo in 😝
+add serviceutils 😝
+make 😝 serializable
+do not reset 😝 twice
+fix 😝 alignment
+add 😝 to 😝
+fix a bug in 😝
+fix compile error
+disable 😝 buttons for 😝
+fix 😝 😝
+add a comment
+remove obsolete test
+fix npe in 😝
+remove override annotation
+do not highlight 😝 😝
+add 😝 to 😝
+fix typo in javadoc
+fix test case
+fix possible npe
+remove unnecessary 😝
+fix javadoc errors
+fix 😝 stop
+fix a bug in pipe 😝
+fix nullpointerexception in 😝
+fix typos in javadoc
+fix npe in 😝
+add support for qualified dot
+fix a bug in 😝
+fix typo in presenter
+fix bug in 😝
+fix typo in 😝
+fix 😝 😝
+fix 😝 😝
+fix failing test
+fix securityexception securityexception
+fix exception message
+deprecate unused constant
+remove unused imports
+updated version number
+refactored test coverage
+fix bug in 😝
+remove dead code
+fix 😝 😝
+don t allow 😝 to be 😝
+remove unused code
+add null checking to 😝
+fix 😝 😝
+fix bug in 😝
+remove unused field
+fix unchecked warning
+fix failing test
+remove unused import
+fix 😝 tests
+do not run toolbar after update
+fix failing test
+remove useless 😝
+fix topic 😝
+remove unused 😝
+remove unused import
+remove unused import
+fix 😝 pattern
+do not show 😝 in ide
+remove system out println
+remove unnecessary logging
+fix a bug in 😝
+add 😝 to 😝
+fix failing test
+remove unnecessary flush
+add a comment
+fix 😝 😝
+fix a compilation error
+improve exception message
+fix npe in 😝
+fix npe in 😝
+remove unneeded code
+add unit test
+fix test failures
+make 😝 😝 public
+remove debug output
+remove unused field
+remove unused imports
+remove 😝 exception
+fix 😝 😝
+fix failing test
+fix a bug where 😝 wasn t 😝
+fix potential deadlock in 😝
+add more debug panel to 😝
+fix typo in javadoc
+fix 😝 😝
+remove unused method
+remove unused import
+fix 😝 😝
+don t show profile actions until logged
+fix kmeans 😝
+add null checking for 😝
+fix potential deadlock in 😝
+remove obsolete todo
+add notnull annotation
+don t show empty 😝
+remove unused getter
+fix checkstyle issue
+fix typo in javadoc
+fix drf 😝
+fix checkstyle warning
+add license header
+implement 😝 to 😝
+fix failing test
+fix 😝 😝
+fix unit test
+fix error message
+fix javadoc typo
+remove unused imports
+add a comment
+fix unchecked warning
+remove some todos
+add 😝 to 😝
+remove unused code
+fix 😝 😝
+remove 😝 from 😝
+add 😝 to 😝
+remove unused code
+do not create 😝 for 😝 expression
+improve transactional transactional comments
+add update method
+add method to 😝
+fix failing test
+add 😝 😝
+fix failing tests
+add missing p
+fix javadoc warning
+add 😝 to 😝
+remove unused code
+fix 😝 😝
+add a comment
+fix typo in javadoc
+fix typo in comment
+fix checkstyle issue
+make 😝 a final keyword
+fix failing test
+don t overwrite 😝 😝
+fix checkstyle issues
+propagate stack diagnostics in 😝
+add 😝 method
+fix a bug in 😝
+fix potential npe
+fix potential race condition in 😝
+fix unchecked warning
+add 😝 😝
+remove unused code
+make keywords completion dumbaware
+fix 😝 😝
+fix 😝 test
+add support for probe
+fix 😝 test
+fix npe in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix 😝 😝
+make 😝 public
+fix potential npe
+fix failing tests
+remove unused imports
+rename 😝 to 😝
+remove deprecation from 😝
+do not show directories in 😝
+improved exception messages
+fix potential npe
+fix potential npe
+remove unused import
+remove unnecessary log
+tweak 😝 title
+fix possible npe
+fix a bug where the cached 😝 wasn t closed properly
+remove unused method
+remove some todos
+fix bug in 😝
+fix bug in 😝
+fix test failures
+fix 😝 😝
+improved logging of 😝
+make the inner inner room available
+fix crash in 😝
+activitymanager don t activitymanager activitymanager substitute 😝
+fix potential npe
+fix failing test
+fix possible npe
+improve error message
+remove unused imports
+fix deadlock in 😝
+add 😝 to 😝
+fix 😝 😝
+add 😝 to 😝
+don t show 😝 when ime is hidden
+fix npe in 😝
+fix 😝 😝
+remove unused code
+add 😝 to 😝
+fix 😝 equals
+add getter for 😝
+fix scroll position
+speed up junit
+fix conditional of 😝
+fix javadoc warnings
+don t use launcher permission for 😝
+split packet should report payload type
+fix 😝 😝
+make 😝 final
+fix crash in 😝
+add 😝 method
+add missing schema
+fix 😝 equals
+fix typo in 😝
+add 😝 to 😝
+remove unused method
+fix 😝 😝
+remove debug printing
+remove 😝 😝
+remove 😝 background background
+add some logging
+fix 😝 😝
+remove unused import
+remove unused import
+don t use 😝 for 😝
+add onpause to onresume
+fix crash in 😝
+remove unneeded 😝
+fix a bug in 😝
+log the error message
+android update imageview java
+don t show 😝 icon for action
+fix 😝 😝
+fix texture 😝
+fix potential race condition
+fix error message
+don t create templates for 😝
+remove system system property
+add override annotation
+fix potential npe
+don t create 😝 on 😝
+do not throw exceptions on ioexception
+add 😝 to 😝
+fix failing test
+fix memory leak in 😝
+fix 😝 😝
+fix failing tests
+remove 😝 comment
+fix 😝 😝
+fix help message
+fix bug in 😝
+fix potential npe
+remove unused import
+do not show text highlighter
+add missing assertion
+fix 😝 in 😝
+fix memory leak in 😝
+remove unused import
+fix typo in javadoc
+add assertion message
+remove unnecessary 😝
+fix 😝 😝
+fix npe in 😝
+remove obsolete todo
+remove unnecessary logging
+add 😝 to 😝
+remove unused variable
+fix memory leak
+remove unexpected cause
+fix license header
+fix potential npe in 😝
+fix npe in 😝
+fix checkstyle issue
+fix potential npe
+fix potential npe
+fix typo in javadoc
+remove unused method
+😝 😝 😝
+remove obsolete todo
+fix unchecked warning
+remove unused import
+fix test data
+fix potential npe
+remove unused method
+fix crash when 😝
+fix potential npe
+do not paint 😝
+fix findbugs warning
+fix potential npe
+rename 😝 to 😝
+fix typo in comment
+remove unnecessary cast
+fix failing tests
+fix 😝 😝
+remove invalidate from textview
+don t call 😝 when 😝
+throw exception if view is not created
+don t show 😝 button if we follow keyguard
+fix 😝 😝
+add 😝 😝
+fix typo in javadoc
+smallfix fix a test
+fix model equals
+fix possible npe
+fix potential npe in 😝
+remove dead code
+fix 😝 😝
+fix typo in test
+fix license header
+fix a bug in 😝
+disable 😝 when 😝
+remove 😝 unsupportedoperationexception
+add 😝 for 😝
+remove unused code
+fix npe in 😝
+fix typo in 😝
+fix small bug
+remove obsolete todo
+remove unused constant
+fix javadoc typo
+fix bug in 😝
+remove unused code
+fix failing tests
+add 😝 to 😝
+fix javadoc typo
+fix the cs error
+fix 😝 in 😝
+hide 😝 from dispose
+fix 😝 😝
+fix typo in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+fix 😝 😝
+add 😝 😝
+fix 😝 😝
+fix 😝 😝
+fix typo in javadoc
+remove unused code
+fix a bug in ls 😝
+deprecate unused code
+remove unused imports
+remove unused method
+fix bug in 😝
+fix 😝 😝
+fix potential deadlock
+add 😝 😝
+fix a bug in 😝
+fix crash in 😝
+remove 😝 colon
+fix typo in 😝
+fix npe in 😝
+ignore failing test
+remove unused code
+remove unused constants
+remove unused field
+add another constructor
+fix failing test
+add a comment
+remove 😝 warning
+fix typo in 😝
+fix potential npe
+add missing override
+ignore 😝 😝 in 😝
+fix node children
+fix failing tests
+rename 😝 to 😝
+add 😝 method
+fix descriptorrenderer indentation
+remove unused imports
+fix 😝 😝
+fix 😝 😝
+remove unused constants
+fix compilation errors
+fix failing test
+fix npe in 😝
+fix possible npe
+fix a bug in 😝
+remove unused import
+do not refresh refresh from 😝
+remove unused field
+fix bug in 😝
+remove unused method
+don t throw 😝 exception if 😝 is not available
+fix bug in 😝
+add exception logging
+remove unused variable
+remove unused code
+fix failing tests
+fix test data
+add constructor to mongo request
+improved error message
+fix npe in 😝
+remove unused code
+remove system out
+fix bug in 😝
+do not suggest overload 😝
+log a warning when 😝 a 😝
+fix possible npe
+remove remove assertion
+fix bug in 😝
+fix bug in 😝
+add 😝 to dialog
+add a todo
+don t throwing an exception if we don t exist a 😝
+fix failing tests
+fix 😝 😝 bugs
+add a comment
+add some trace logging to 😝
+don t show 😝 button when 😝
+fix npe in 😝
+fix javadoc warning
+fix crash when scrolling password
+fix possible npe
+smallfix remove explicit type argument in 😝
+add 😝 to 😝
+fix 😝 😝
+fix 😝 😝
+fix compilation error
+fix typo in javadoc
+remove obsolete todo
+fix a bug in 😝
+fix a bug where the notification wasn t updated
+add 😝 to blockmeta
+😝 😝 😝
+remove unused constant
+remove unused import
+add nullable annotation to 😝
+fix 😝 😝
+add 😝 😝
+fix failing tests
+add 😝 constructor to 😝
+add missing override annotation
+fix typo in javadoc
+don t resolve 😝 in 😝
+remove unused import
+remove unused import
+remove unused constant
+renamed 😝 to 😝
+remove unused import
+add a test
+add 😝 to query
+fix npe in 😝
+add containskey to 😝
+fix 😝 leak
+fix a bug in 😝
+remove unused imports
+add 😝 😝
+don t 😝 😝 if async is stopped
+fix failing tests
+add world 😝
+fix a bug with 😝 😝
+fix npe in 😝
+remove unused field
+make 😝 public
+fix test failures
+fix failing test
+fix a bug where notifications had no effect
+fix a bug in generalcommandline
+optimized list size
+remove 😝 logging
+fix checkstyle warning
+don t create 😝 in 😝
+fix a bug in 😝
+fix typo in comment
+add a comment
+add 😝 method
+moving 😝 forward forward to 😝
+remove unused code
+fix a bug in 😝
+fix a bug in odocument 😝
+fix 😝 😝
+make 😝 public
+add 😝 to 😝
+fix 😝 😝
+fix a bug where 😝 😝 t clip
+fix failing tests
+fix checkstyle errors
+fix typo in javadoc
+fix bug in 😝
+remove unused imports
+fix typo in javadoc
+fix unit test
+fix npe in 😝
+don t use deprecated 😝
+remove unused constant
+add a comment
+fix checkstyle warning
+fix failing test
+don t show 😝 if there is no alarm
+add 😝 to odocument
+fix error message
+fix 😝 😝
+add preconditions checkstate
+fix a bug where 😝 wasn t 😝
+propagate 😝 exceptions
+remove unused code
+remove 😝 logging
+fix failing test
+remove debug code
+make 😝 abstract
+remove unused import
+fix 😝 😝
+do not 😝 😝 for binary files
+fix leak in tests
+fix 😝 😝
+fix 😝 runtimeexception
+fix 😝 tests
+fix test data
+remove unused code
+do not create 😝 for 😝
+fix typo in comment
+remove 😝 printstacktrace
+add 😝 method
+don t cancel 😝 if 😝 is pressed
+fix a bug in 😝 that was trying to tiny a 😝
+remove 😝 😝
+don t call 😝 when 😝
+fix 😝 😝
+fix failing test
+fix 😝 😝
+remove 😝 from 😝
+fix a bug in 😝
+remove unused code
+rename getname to stdout
+remove unused code
+don t show 😝 unless 😝 😝
+fix 😝 😝
+remove unused code
+fix crash in 😝
+add license headers
+throw exception on 😝 failure
+add 😝 method
+fix potential npe
+remove unused code
+fix typo in javadoc
+fix 😝 tostring
+fix potential npe
+fix failing tests
+add some comments
+fix potential deadlock
+add some comments
+add support for 😝
+fix a bug in 😝
+remove unused constant
+fix license headers
+don t throw exception for 😝 io
+remove unused constant
+add peergroup lock method
+add 😝 to 😝
+fix a bug in 😝
+fix failing test
+add 😝 to 😝
+fix checkstyle issue
+add constructors to 😝
+fix disconnect disconnect
+fix potential npe
+fix test case
+add 😝 method
+fix 😝 😝
+add trace logging
+fix failing tests
+move org bukkit bukkit util util util
+fix npe in 😝
+add test case for 😝
+fix typo in javadoc
+remove unused import
+remove 😝 from 😝
+remove unused code
+deprecate 😝 😝
+add support for pid
+fix failing test
+don t 😝 the scroll bar if hardware 😝
+fix a bug in 😝 that was not 😝
+fix memory leak
+remove 😝 logging
+fix 😝 in 😝
+turn off logging
+fix possible race condition
+fix npe in 😝
+remove unused code
+add some comments
+remove unused import
+fix 😝 😝
+add 😝 to 😝
+fix error message
+remove unused imports
+fix a bug in 😝
+fix failing tests
+remove unnecessary suppresswarnings
+add 😝 to server
+do not show 😝 from 😝
+add 😝 to effect
+fix 😝 😝
+throw exception if seconds is null
+remove 😝 assertion
+add 😝 method
+fix crash in 😝
+do not use deprecated api
+remove unused code
+fix failing tests
+remove unused code
+remove system out
+remove old comments
+remove unused import
+suppress unchecked warning
+remove unused field
+add 😝 method
+fix typo in javadoc
+fix typo in comment
+fix javadoc break
+fix npe in popupwindow
+remove 😝 call
+fix a bug in 😝
+fix failing test
+fix possible npe
+fix see in javadoc
+remove unused variable
+fix 😝 😝
+add error message if the metric doesn t query
+remove unused javadoc
+fix 😝 😝
+fix bug in 😝
+fix 😝 pattern
+remove leftover println
+fix a bug with 😝 😝
+fix npe in 😝
+fix 😝 😝
+add tostring to 😝
+fix checkstyle errors
+remove unused variable
+fix 😝 😝
+fix 😝 tests
+fix bug in 😝
+make 😝 extend 😝
+fix bug in 😝
+fix javadoc for 😝
+add null check
+rename 😝 to 😝
+don t throw exception if 😝 is disabled
+fix 😝 dispose bug
+implement textureview for textureview
+add 😝 to 😝
+fix a bug in 😝
+remove unused method
+remove unused method
+fix bug in 😝
+fix kmeans 😝
+remove 😝 warning
+fix failing tests
+fix 😝 😝
+fix unit test
+fix 😝 😝
+fix failing test
+remove system out
+add more logging to 😝
+fix 😝 😝
+fix potential npe
+remove unused import
+remove unused code
+fix potential deadlock in 😝
+add 😝 to 😝
+don t overwrite properties in 😝
+add 😝 to 😝
+fix typo in 😝
+fix a bug in 😝
+remove 😝 todo
+fix bug in 😝
+deprecate unused constant
+do not create stubs for 😝
+remove 😝 logging
+add a comment
+remove unused import
+remove unused code
+add convenience method for 😝
+log 😝 error message
+remove 😝 assertion
+fix 😝 😝
+fix typo in javadoc
+make 😝 final
+fix 😝 😝
+fix 😝 😝
+sourceformatter ignore logic in debug
+fix bug in 😝
+add missing annotation
+add support for 😝
+fix potential npe
+add some tests for 😝
+remove unused field
+add getter for 😝
+fix 😝 close
+remove debug logging
+fix 😝 border
+add logging for 😝
+handle exceptions thrown by 😝
+rename 😝 to 😝
+add 😝 to world
+add 😝 method
+fix bug in 😝
+fix potential npe
+add close method
+make 😝 public
+fix property 😝
+do not log error
+add license to 😝
+fix npe in 😝
+remove unused import
+remove unused code
+fix a bug in sslhandler
+remove unnecessary 😝
+fix a possible race condition in 😝
+remove unnecessary call to 😝
+remove unused code
+remove unused field
+fix npe in 😝
+fix a bug where sync sync sync sync sync is not 😝
+add 😝 😝
+remove unused imports
+remove debug output
+fix see javadoc
+fix potential npe
+add 😝 to httpmessage
+fix compiler errors
+fix javadoc typo
+remove system out
+fix typo in javadoc
+fix potential npe
+remove dead code
+fix npe in webxml
+remove unused code
+add javadoc for parser
+fix checkstyle warning
+fix 😝 😝
+add unit test
+fix 😝 😝
+fix checkstyle warning
+add some comments
+do not add 😝
+add nullable annotation
+fix bug in 😝
+fix bug in 😝
+fix 😝 😝
+fix npe in 😝
+fix crash in 😝
+add 😝 to 😝
+add 😝 to 😝
+remove 😝 😝
+fix log message
+add missing 😝
+don t restrict popup to find 😝
+improved exception messages
+fix potential npe
+fix potential npe
+fix crash in 😝
+fix exc cast on 😝
+fix npe in 😝
+don t use deprecated 😝
+fix 😝 😝
+fix 😝 😝
+don t 😝 items in 😝
+add a catch block for 😝
+fix bug in 😝
+fix 😝 😝
+add 😝 to 😝
+add 😝 to 😝
+remove deprecated method
+remove unused method
+remove unused constructor
+remove unused field
+add 😝 to 😝
+fix potential npe
+remove unused property
+fix a bug in 😝
+fix failing test
+improve error message
+eliminate eclipse warning
+fix a bug in 😝
+add missing header
+add null check
+fix bug in 😝
+fix 😝 points
+fix 😝 😝
+fix line separators
+fix checkstyle issue
+remove unneeded settextcolor
+do not show bounds when 😝 is disabled
+remove shutdown delay
+improved log message
+remove unnecessary method
+remove unused elasticsearch 😝
+fix a bug in 😝
+remove unused imports
+add debug log
+fix incorrect calculation of layoutparams
+fix failing tests
+fix typo in javadoc
+fix broken build
+remove deprecated code
+fix typo in comment
+dispose 😝 on dispose
+don t throw exception if splitter is disabled
+add 😝 to 😝
+remove 😝 from 😝
+add a test
+remove unused code
+fix 😝 😝
+add javadoc for 😝
+remove unused code
+fix checkstyle issue
+smallfix remove explicit argument type in 😝
+fix javadoc errors
+add drop method
+improve error message
+make 😝 😝 public
+fix focus issue in 😝
+don t hide 😝 when 😝
+add inject annotation
+remove unused code
+add support for 😝
+fix a typo
+fix npe in 😝
+fix crash in 😝
+fix regression with 😝
+add ln for ln
+add support for 😝
+remove unused variable
+add 😝 to 😝
+fix a bug where the alarm would not go if there is no alarm
+add 😝 method
+fix potential npe
+add adminclient 😝
+fix 😝 computation
+add 😝 to 😝
+fix potential npe
+fix typo in 😝
+remove obsolete todo
+add 😝 😝
+fix compilation errors
+add 😝 😝
+remove unused code
+fix possible npe
+don t show fab button if not logged
+remove unused imports
+fix a bug in 😝
+make 😝 public
+fix a bug where the button wasn t hidden properly
+fix bug on 😝
+don t show 😝 layers when 😝 is disabled
+fix 😝 exception
+fix bug in 😝
+remove unused method
+fix npe in 😝
+remove unused code
+remove unused constructors
+fix typo in javadoc
+fix npe in 😝
+fix bug in 😝
+fix potential npe
+fix 😝 😝
+fix javadoc typo
+add beta annotation to 😝
+add 😝 to 😝
+remove 😝 warning
+implement 😝 in 😝
+remove 😝 from 😝
+don t show 😝 button for 😝
+add 😝 to 😝
+add getid to session
+fix checkstyle errors
+fix checkstyle errors
+remove debug print
+fix bug in 😝
+fix maven tests
+deprecate unused code
+fix 😝 😝
+fix a crash in preferences
+add missing license header
+add 😝 to 😝
+fix potential npe in 😝
+fix 😝 constructor
+don t create 😝 for 😝
+remove unused code
+add javadoc for 😝
+add 😝 to 😝
+hide interrupt button in 😝
+fix npe in 😝
+improve exception message
+add support for 😝
+deprecate old classes
+fix 😝 compareto
+fix test cases
+fix bug in 😝
+remove unused test
+add a test
+remove unused code
+fix 😝 😝
+fix typo in javadoc
+fix 😝 😝
+fix possible npe
+add 😝 to 😝
+don t leak 😝
+fix 😝 😝
+fix bug in 😝
+remove deprecated annotation from 😝
+add ide error message for failure messages
+add 😝 method to 😝
+improved exception message
+fix failing tests
+add interpolator to onattach
+add getchannel getchannel method
+add a comment
+remove unused method
+fix 😝 😝
+remove system out
+fix comment typo
+fix possible npe
+fix checkstyle errors
+smallfix remove explicit argument type in 😝
+remove unused field
+don t show modal 😝 for 😝
+commented prototype example
+remove unused import
+remove 😝 warning
+fix npe in 😝
+fix crash when 😝 😝
+improved test discovery
+😝 😝 😝
+fix potential npe
+don t create 😝 for 😝
+fix javadoc typo
+fix failing tests
+remove unnecessary comments
+improved error message
+add 😝 to 😝
+fix checkstyle errors
+fix 😝 equals
+remove leftover annotation
+remove unused code
+add 😝 to 😝
+remove 😝 from 😝
+remove unused import
+fix a bug in 😝
+fix test case
+add a todo comment
+fix 😝 😝
+fix 😝 in 😝
+remove unused code
+don t show keyguard for 😝 😝
+remove unused methods
+add equals and hashcode
+add support for 😝 dot
+remove unused code
+fix byte putall
+remove dead code
+don t use 😝 for 😝
+pass the correct context rather than throwing an exception
+fix crash in 😝
+remove unused import
+fix typos in javadoc
+fix a crash in 😝
+add 😝 to 😝
+fix possible npe
+remove unused code
+remove obsolete todo
+fix 😝 😝
+add 😝 to 😝
+fix a bug in 😝
+fix crash in 😝
+add 😝 matcher
+fix javadoc warning
+fix 😝 tests
+fix 😝 😝
+fix permissions permissions
+fix npe in 😝
+remove final modifiers
+fix 😝 😝
+fix bug in 😝
+add javadoc for 😝
+fix bug in 😝
+remove unused import
+fix 😝 in 😝
+fix crash in 😝
+remove unused imports
+fix potential npe
+fix 😝 😝
+add 😝 😝
+don t send 😝 to 😝
+remove unused method
+add kotlin error message
+fix intentfilter 😝
+remove 😝 😝
+fix bug in 😝
+fix javadoc warning
+fix failing test
+fix crash in 😝
+add missing license header
+fix checkstyle error
+use foreground intent
+add 😝 method
+add 😝 to 😝
+don t show 😝 on 😝
+fix 😝 😝
+remove unnecessary test
+fix a bug in 😝
+fix 😝 😝
+remove unused import
+remove unused field
+add exception logging
+fix 😝 process
+fix a bug in 😝
+fix broken build
+add 😝 to 😝
+fix typo in 😝
+fix 😝 😝
+fix a bug in 😝
+remove unused imports
+moved 😝 to org bukkit package
+add a test for 😝
+fix compilation error
+don t print glm if it s empty
+fix 😝 😝
+fix failing test
+fix 😝 😝
+remove unused constant
+remove unused import
+fix bug in 😝
+fix a bug in 😝
+fix npe in 😝
+add getters for view and 😝
+fix 😝 😝
+remove dead code
+add a comment
+fix 😝 😝
+fix potential npe
+annotate 😝 😝
+fix npe in 😝
+remove unnecessary logging
+do not return cached results
+add 😝 to 😝
+remove unused code
+add options to 😝
+fix a bug in 😝
+make 😝 final
+remove unused code
+add missing javadoc
+fix 😝 😝
+add 😝 to 😝
+fix npe in 😝
+initialize 😝 before 😝
+add 😝 😝
+rename 😝 to 😝
+fix 😝 😝
+fix some javadoc errors
+remove deprecation warnings
+disable failing test
+add ishidden method
+smallfix remove explicit argument type in 😝
+don t use url in 😝
+fix npe in 😝
+remove unused constant
+add missing final modifier
+fix 😝 😝
+fix findbugs warning
+add geturl to 😝
+add a todo
+fix a failing test
+add asynccontext to asynccontext
+remove duplicate 😝
+fix potential npe
+fix 😝 😝
+add support for xml xml 😝
+fix npe in 😝
+fix javadoc for 😝
+fix typo in 😝
+remove unused code
+don t create 😝 if vcs doesn t exist
+don t 😝 😝 😝
+fix javadoc typos
+remove unnecessary logging
+fix 😝 😝 exceptions
+add javadoc for 😝
+add 😝 to 😝
+fix bug in 😝
+fix license 😝
+fix javadoc warning
+don t show 😝 on 😝
+fix 😝 in 😝
+add javadoc for singleton
+fix test data
+fix log message
+fix a bug in tsurgeon 😝
+fix a bug in 😝
+do not show 😝 for 😝
+add teardown to 😝
+fix a bug in 😝
+remove 😝 logging
+fix 😝 thumb 😝
+fix 😝 😝
+fix unchecked warning
+don t show keyguard if 😝 is disabled
+fix 😝 😝
+fix npe in 😝 clear
+don t validate realm 😝
+fix failing test
+fix flaky test
+fix npe in 😝
+fix the test
+don t show 😝 button for 😝
+add 😝 method
+don t show 😝 when 😝 tasks
+fix typo in javadoc
+fix a bug in 😝
+add 😝 to 😝
+use the new 😝 method
+fix possible npe
+add a null check for 😝
+add nullable annotations
+fix potential deadlock in 😝
+remove unused code
+don t show 😝 for 😝
+fix failing test
+improved javadoc for 😝
+add a comment
+fix failing test
+fix failing test
+fix crash in 😝
+remove unused code
+fix javadoc for 😝
+do not show branches from 😝
+remove unused field
+make 😝 public
+remove unused field
+fix bug in frame
+add 😝 to 😝
+fix failing test
+remove 😝 from 😝
+add 😝 to 😝
+add 😝 😝
+set default value
+don t throw error if fs go out
+improve logging of 😝
+remove unused imports
+fix 😝 😝
+fix potential npe
+remove unused code
+fix typo in javadoc
+add 😝 😝
+fix potential deadlock in roster
+fix 😝 😝
+remove 😝 from 😝
+add visiblefortesting to 😝
+make 😝 constructor public
+fix npe in 😝
+remove unused constructor
+remove unused import
+library remove unnecessary initializer
+do not show invalid descriptors in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix possible npe
+remove 😝 from 😝
+add 😝 sorted
+fix exception message in 😝
+remove unused code
+remove 😝 from 😝
+use a 😝 constant
+fix npe in 😝
+add 😝 to 😝
+add tostring to 😝
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+add 😝 😝
+fix failing test
+add json method to 😝
+fix 😝 😝
+propagate 😝 😝
+fix javadoc warning
+increased version number
+replace assertion assertion assertion with assertion
+fix 😝 😝
+do not show injected references in 😝
+don t use 😝
+remove unused line
+add test for 😝 😝
+fix typo in 😝
+fix a bug in 😝
+do not show 😝 😝
+sourceformatter remove unused var
+fix bug in 😝
+add 😝 to 😝
+don t popup 😝
+remove leftover 😝
+remove unused code
+do not show toolbar toolbar if already initialized
+add 😝 to 😝
+make 😝 public
+fix bug in 😝
+fix checkstyle issue
+fix 😝 😝
+add a todo
+fix checkstyle errors
+add missing runwith
+remove unused imports
+fix 😝 😝
+remove unneeded warning suppression
+add converter to 😝
+fix potential npe
+remove unused code
+fix typo in javadoc
+add tostring method
+fix potential deadlock in 😝
+fix potential npe
+fix memory leak
+add 😝 😝
+fix 😝 😝
+remove unused import
+add javadoc for 😝
+fix failing tests
+fix javadoc warning
+fix 😝 😝
+fix failing test
+add 😝 to 😝
+fix 😝 😝
+add a warning
+fix bug in 😝
+add more debug info
+remove unused constants
+remove unused code
+fix regression in 😝
+fix compilation errors
+remove system out
+fix 😝 😝
+fix 😝 😝
+improve error message
+remove unused imports
+add dependency for dependency
+don t throw exception when 😝 is null
+smallfix remove explicit argument type in contactscontract
+remove unused import
+add support for baseadapter
+remove debug logging
+add comments to 😝
+remove deprecated annotation
+fix problem with 😝
+remove unused code
+remove 😝 logging
+add 😝 to diagnosticgroups
+fix failing tests
+remove unused method
+remove dead code
+fix 😝 😝
+fix test failure
+fix bug in 😝
+fix 😝 😝
+fix build by 😝
+fix a problem with 😝 😝
+remove unused method
+remove unused code
+remove unused code
+fix potential npe
+fix a bug where 😝 😝 t rotate 😝
+fix failing test
+add 😝 to 😝
+remove notnull annotation
+remove unused code
+add some comments
+fix checkstyle errors
+remove unused imports
+remove 😝 from 😝
+fix crash in 😝
+fix bug in 😝
+updated version number
+ignore failing test
+remove unused code
+fix typo in comment
+remove unused constant
+fix possible npe
+fix potential npe
+fix 😝 tests
+fix test cases
+disable failing test
+fix a bug in 😝
+fix 😝 😝
+fix possible npe
+😝 error message
+use actual 😝
+fix potential npe
+fix failing test
+fix 😝 😝
+add a comment
+remove unused code
+remove unused variable
+include lib lib lib
+remove system out
+fix failing test
+fix 😝 😝
+hide soft keyboard pref when 😝
+fix unchecked warning
+add diagnostic message
+add support for 😝
+remove unused warning suppression
+remove unused line
+fix npe in 😝
+fix a crash in 😝
+fix bug in 😝
+remove unused constant
+remove system out
+fix a bug in 😝
+do not show fake lib lib lib lib directories
+fix bug in 😝
+fix 😝 😝
+fix 😝 partitions
+add 😝 to 😝
+fix npe in 😝
+do not merge fix a bug in 😝
+don t show 😝 when 😝 😝
+fix javadoc warning
+add provides argument to 😝
+fix potential deadlock in 😝
+make 😝 method protected
+fix a bug in 😝
+fix 😝 tests
+improved javadoc for 😝
+fix possible npe
+fix comment typo
+improved javadoc for 😝
+fix a bug in 😝
+remove unused code
+fix a bug in 😝
+don t draw zoom layers layers
+fix checkstyle warning
+log 😝 exceptions
+remove unused code
+fix npe in 😝
+remove dead code
+make 😝 public
+remove unused code
+fix javadoc typo
+remove unused constants
+fix 😝 😝
+remove log message
+fix failing test
+remove unused code
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+add missing repeat
+remove unused constants
+fix possible npe
+remove unused code
+remove unused code
+fix javadoc for 😝
+don t treat 😝 as 😝
+fix crash in 😝
+remove unused code
+fix 😝 😝
+use correct title
+fix javadoc warning
+fix findbugs warning
+add missing 😝
+remove unused code
+increased timeout in test
+don t 😝 😝 😝
+don t paint tabs if 😝 is selected
+add null checks
+fix 😝 😝
+fix javadoc warning
+fix javadoc warning
+remove unused code
+fix potential npe
+improved error message
+fix 😝 latency
+remove unused code
+add profiler bar to 😝
+fix test failures
+remove unneeded cast
+fix a couple of findbugs warnings
+fix some javadoc
+remove unused code
+don t use 😝 layers for 😝
+fix npe in 😝
+fix failing test
+fix npe in 😝
+add missing javadoc
+remove unneeded 😝 😝
+don t show 😝 on 😝
+add 😝 to 😝
+fix 😝 😝
+fix potential npe
+add 😝 to 😝
+remove unused method
+fix failing tests
+fix 😝 😝
+fix a typo
+fix crash in 😝
+fix failing test
+hide 😝 from 😝
+add 😝 to 😝
+fix typo in 😝
+remove unused constructor
+fix potential npe
+fix a bug in 😝
+fix failing test
+fix a bug where the 😝 doesn t 😝 😝
+add 😝 method
+fix typo in javadoc
+remove unused imports
+make server 😝 public
+add 😝 to 😝
+add binding to 😝
+don t show package for lib
+fix checkstyle issue
+don t show 😝 button for 😝
+fix 😝 😝
+fix npe in 😝
+add some logging to 😝
+add a couple more comments to 😝
+add 😝 to 😝
+remove debug print
+fix a bug in 😝
+fix 😝 😝
+handle 😝 exception
+fix license header
+remove unused code
+fix potential npe
+remove unused method
+remove unused method
+fix a bug in 😝
+fix potential npe
+fix bug in 😝
+log error message when a connection is unsupported
+fix failing test
+fix 😝 😝
+fix bug in 😝
+fix 😝 provider provider
+fix 😝 😝
+move 😝 to org bukkit
+fix typo in 😝
+fix bug in 😝
+add null check
+fix bug in 😝
+add more debugging info
+use the 😝
+fix log level
+add a comment
+add last getter to 😝
+don t increment endpoint
+add missing overrides
+remove unused field
+add systemapi to 😝
+use new global global logic
+fix npe in 😝
+remove unnecessary override
+improve error message
+add javadoc for commit
+fix failing tests
+fix a bug in 😝
+add getter for 😝
+remove dead code
+fix failing tests
+add 😝 to 😝
+remove unused code
+add 😝 method
+remove unused code
+remove unused code
+add missing license header
+fix typo in 😝
+fix compilation error
+add a comment
+clarified javadoc for 😝 in solo and clicker
+add a couple of logging for 😝
+add 😝 to 😝
+add 😝 😝
+don t show 😝 icon for 😝
+fix 😝 😝
+add 😝 to 😝
+fix potential npe
+remove unnecessary logger
+add 😝 to 😝
+fix 😝 😝
+remove unused constant
+fix bug in 😝
+fix typos in 😝
+fix bug in 😝
+use new upload
+fix 😝 😝
+do not use deprecated 😝
+remove unused import
+add missing javadoc
+fix license header
+smallfix remove explicit type argument in 😝
+fix npe in 😝
+deprecate 😝 😝
+add a todo
+fix crash when 😝 😝
+remove public modifier
+add 😝 to 😝
+remove unused code
+fix javadoc for 😝
+fix npe in 😝
+remove unused code
+fix bug in 😝
+remove unused constant
+fix failing test
+fix 😝 😝
+handle null values
+remove unused field
+set 😝 to cp
+fix javadoc warning
+fix crash in 😝
+remove unused code
+fix the test
+fix some javadoc
+fix 😝 tostring
+catch exception when loading 😝
+fix 😝 😝
+add 😝 to 😝
+fix typo in javadoc
+fix 😝 😝
+remove unused imports
+fix possible npe
+fix bug in 😝
+add 😝 to 😝
+remove unused todos
+fix 😝 😝
+remove unused import
+don t show empty 😝 names
+remove unused code
+add more 😝 😝
+fix cs issue
+add 😝 to 😝
+fix a bug in 😝
+fix 😝 😝
+fix failing tests
+remove 😝 todo
+remove unused method
+fix a bug in 😝 where it s not 😝
+fix javadoc errors
+fix a bug in 😝
+remove 😝 assignment
+add 😝 method
+remove debug output
+add missing test
+add 😝 to 😝
+fix compilation error
+fix a bug in 😝
+😝 extends 😝
+fix compilation error
+add update method
+add 😝 😝
+remove unused method
+remove debug logging
+fix javadoc typo
+fix compilation error
+fix 😝 😝
+add constructor to 😝
+add unit test
+fix compilation error
+remove 😝 from 😝
+do not show dialogs in 😝
+add 😝 😝
+fix potential npe
+fix bug in 😝
+fix test data
+fix generalcommandline in generalcommandline
+fix npe in 😝
+fix 😝 😝
+fix abslistview 😝
+fix modules in modules
+add 😝 to 😝
+remove unused import
+add tostring to 😝
+remove unused field
+remove unused import
+fix license header
+remove system out
+add 😝 to 😝
+remove system out
+fix failing test
+don t show 😝 button on mac
+add ability to use a null value
+fix npe in 😝
+remove unused code
+fix failing tests
+add delay to 😝
+fix some warnings in 😝
+don t show 😝 for 😝
+make chunk class static
+fix typo in javadoc
+add a comment
+fix npe in 😝
+eliminate 😝 encode strings
+fix 😝 😝
+do not log 😝
+hide icon title
+fix a bug in 😝
+remove unused imports
+do not create 😝 for find usages
+fix ime tile tile
+fix 😝 color
+fix compilation problems
+fix typo in log message
+fix bug in 😝
+fix bug in 😝
+fix 😝 😝
+remove debug print
+add more debug to debug info
+fix compilation errors
+fix a bug in 😝
+remove unused code
+fix chat room bugs
+fix bug in 😝
+fix 😝 proxy
+remove system loadlibrary call
+fix javadoc typo
+fix failing test
+fix nullpointerexception in 😝
+don t call 😝 on abstractchannel 😝
+fix a bug where transparent would not show keyguard
+remove debug output
+add null check in 😝
+fix bug in 😝
+fix 😝 😝
+fix typo in 😝
+fix 😝 😝
+fix a bug with 😝 😝
+remove unneeded annotation
+fix npe in 😝
+don t show 😝 button for non 😝
+fix a bug in 😝
+fix 😝 available
+add 😝 to 😝
+delete unused code
+fix potential npe in 😝
+fix npe in 😝
+fix test case
+fix 😝 😝
+remove unused method
+fix potential npe
+fix deadlock in 😝
+fix 😝 😝
+remove unused import
+fix a bug in 😝
+remove unused import
+remove 😝 from 😝
+add missing license headers
+fix tostring for 😝
+fix bug in 😝
+fix 😝 icon
+fix 😝 calculation
+fix test data
+make 😝 public
+😝 😝 in 😝
+remove deprecated annotation
+fix potential npe
+fix 😝 test
+fix npe in 😝
+remove stale comment
+remove unused 😝
+fix checkstyle warning
+remove 😝 flush
+fix compilation error
+make 😝 abstract
+fix broken test
+remove volatile from 😝
+disable failing test
+fix failing test
+fix 😝 😝
+fix possible npe
+fix 😝 😝
+fix a bug in 😝
+add 😝 to 😝
+fix failing test
+make 😝 static
+fix possible npe
+fix 😝 😝
+fix bug in 😝
+fix some eclipse warnings
+add 😝 to 😝
+ignore flaky test
+remove 😝 from 😝
+fix bug in 😝
+fix 😝 😝
+fix a problem where the 😝 doesn t expose a 😝
+add tostring method
+fix failing tests
+fix 😝 title
+remove unused import
+add 😝 😝
+fix checkstyle issue
+fix typo in javadoc
+fix 😝 😝
+fix a typo in 😝
+fix 😝 😝
+remove unused import
+remove deprecated code
+fix apps in 😝
+fix compile errors
+fix docs problems
+add test for 😝
+add 😝 to 😝
+add destroy methods
+updated javadoc for 😝
+add 😝 to 😝
+add 😝 to 😝
+add a test
+remove unused code
+temporarily ignore 😝
+remove unused method
+fix 😝 😝
+remove unused code
+remove deprecated code
+fix 😝 😝
+fix checkstyle problems
+fix checkstyle issue
+fix 😝 😝
+fix failing test
+fix a bug in 😝
+don t show 😝 for 😝 directories
+fix findbugs warning
+add a test comment
+fix a bug where the height would be 😝
+fix javadoc typo
+remove break statement
+fix typo in 😝
+do not paint selection
+add serialversionuid to 😝
+remove system out
+remove unused method
+fix failing test
+fix npe in 😝
+remove unused code
+fix log message
+fix scroller 😝
+add 😝 to 😝
+remove unused import
+remove unused import
+fix npe in glsurfaceview
+add a utility method to 😝 for 😝
+fix javadoc typo
+fix bug in 😝
+register 😝 to 😝
+fix failing test
+fix npe in 😝
+add 😝 to shadowview
+fix 😝 😝
+detach project name
+fix 😝 calculation
+fix potential npe
+remove 😝 😝
+fix test data
+fix potential npe
+fix javadoc typos
+clarified javadoc for 😝
+fix a failing test
+fix findbugs warning
+fix bug in 😝
+fix failing test
+fix 😝 😝
+fix a bug where notifications would 😝
+add 😝 to 😝
+fix 😝 😝
+fix 😝 😝
+add timevalue to xcontentbuilder
+improved error message
+remove unused import
+add 😝 to 😝
+remove executorservice from 😝
+fix failing test
+fix a typo
+add constructor to 😝
+fix npe in 😝
+add accessor for 😝
+don t show 😝 for 😝
+fix npe in 😝
+fix 😝 😝
+add 😝 to 😝
+improved error logging
+fix 😝 😝
+fix potential npe
+remove 😝 from 😝
+fix date 😝
+remove 😝 from 😝
+smallfix remove explicit argument type in 😝
+fix editable 😝
+remove invalid assertion
+add 😝 to 😝
+fix log message
+git remove trailing spaces
+fix 😝 😝
+remove unused code
+fix 😝 😝
+fix test on windows
+remove temporary logging
+fix possible npe in 😝
+remove unused code
+fix bug in 😝
+ignore exception support info
+fix bug in 😝
+don t use deprecated 😝
+remove deprecated code
+remove oncreate call
+fix possible npe
+hide menu button
+remove unused import
+fix 😝 in 😝
+fix typo in 😝
+fix error message in 😝
+fix 😝 😝
+add 😝 to 😝
+fix 😝 in 😝
+fix a bug in 😝
+smallfix fix 😝
+remove unused field
+fix failing tests
+add more info to 😝
+fix notnull warning
+remove 😝 logging
+make 😝 public
+remove unused code
+fix 😝 😝
+add 😝 to 😝
+fix npe in 😝
+fix 😝 scroll
+fix potential npe
+remove unused code
+fix 😝 😝
+add 😝 😝
+fix potential npe
+add javadoc for 😝
+remove unused code
+rename 😝 to 😝
+do not show default filetype
+fix bug in 😝
+remove unused code
+improve error message
+fix a compilation error
+don t store directory if it s disabled
+fix potential npe
+fix 😝 😝
+fix 😝 in 😝
+fix javadoc errors
+fix arrayindexoutofboundsexception in 😝
+remove 😝 from 😝
+add 😝 to 😝
+add 😝 to 😝
+add getport method to droidgap
+remove debug code
+don t show 😝 when 😝 😝
+fix bug in 😝
+don t trim 😝
+add constructor that takes no version of 😝
+fix 😝 leak
+add 😝 to 😝
+add 😝 annotation to 😝
+fix 😝 😝
+fix 😝 😝
+temporarily disable 😝
+do not accept 😝 from 😝
+fix npe in 😝
+fix 😝 😝
+remove unused code
+fix a bug in 😝
+fix 😝 😝
+remove 😝 logging
+remove unused code
+fix checkstyle errors
+fix bug in 😝
+remove deprecated constants
+fix bug in 😝
+fix a bug in 😝
+don t leak interrupted exceptions
+don t show empty lines
+fix error message
+remove unnecessary call to 😝
+fix potential npe
+do not run profiles if profiles
+remove unused imports
+fix test failures
+fix a bug in 😝
+remove unused method
+add default default default default default default default default value
+remove unused imports
+fix typo in javadoc
+fix failing test
+fix intellij warning
+remove unused constant
+fix checkstyle error
+remove 😝 from 😝
+fix bug in 😝
+fix buffer leak
+remove unused constants
+fix 😝 😝
+fix bug in 😝
+smallfix remove redundant initializer in 😝
+remove unused immutablemap
+fix bug in 😝
+fix 😝 😝
+fix npe in 😝
+remove unused code
+add 😝 to 😝
+move 😝 to 😝
+remove timeout from 😝
+fix failing test
+remove unused word
+add support for 😝
+add 😝 to 😝
+add active method to server
+add 😝 to 😝
+remove system out
+remove unused code
+add stringutil 😝
+add tostring to 😝
+fix npe in 😝
+fix typo in javadoc
+remove unused code
+fix bug in 😝
+do not show undo 😝
+fix 😝 😝
+remove useless test
+fix 😝 😝
+don t create empty strings in 😝
+add assertion message
+catch throwable instead of malformedurlexception
+remove unused import
+remove unused code
+add 😝 to 😝
+add license header
+remove unnecessary border
+fix compilation errors
+fix failing test
+make 😝 public
+add 😝 to 😝
+add missing headers
+add 😝 to 😝
+add missing servlet
+fix potential deadlock
+fix 😝 😝
+add a todo
+remove unnecessary synchronization
+fix bug in 😝
+change 😝 to 😝
+add 😝 to 😝
+fix unit test
+fix the build
+fix race in 😝
+fix 😝 😝
+don t show unresolved references for unresolved references
+fix bug in 😝
+fix a typo in tag name
+fix typo in 😝
+fix fc in 😝
+fix potential npe
+don t show empty messages for empty links
+fix a bug in 😝
+add fixture method to fixture
+fix 😝 😝
+don t show 😝 outline outline outline outline in outline outline
+add table add method
+remove unused imports
+remove unused method
+fix 😝 😝
+add more operator tests
+add some javadoc
+fix 😝 😝
+add 😝 to 😝
+fix 😝 😝
+fix 😝 😝
+do not use deprecated 😝
+fix bug in 😝
+make 😝 😝 public
+add a comment
+remove unused constant
+fix typo in javadoc
+remove system out
+add missing javadoc
+add 😝 to 😝
+remove unused constant
+remove debug code
+fix failing tests
+fix bug in 😝
+remove system loadlibrary call
+don t start done in 😝
+remove unneeded comments
+add 😝 😝
+fix issue with 😝 😝
+add some comments
+add 😝 to 😝
+fix failing tests
+improved error messages
+fix a crash in 😝
+fix bug in 😝
+add 😝 😝
+remove 😝 from 😝
+add 😝 to 😝
+remove debug code
+remove trailing spaces
+don t adderror 😝 😝 precondition
+fix bug in 😝
+remove system out
+fix potential npe
+fix crash in 😝
+add license header
+fix 😝 test
+add 😝 😝
+don t show 😝 unless 😝
+add 😝 to 😝
+fix checkstyle errors
+make method public
+propagate 😝 to 😝
+add 😝 to 😝
+do not use 😝
+add missing header
+fix 😝 tests
+fix failing test
+add 😝 interface
+remove unused field
+fix a comment
+add 😝 annotation
+rename 😝 to 😝
+remove unused constant
+fix a typo in 😝
+fix possible npe
+remove unused import
+don t show 😝 if we re logged
+fix 😝 leak
+add awaitsfix to 😝
+fix 😝 😝
+ignore failing test
+remove unused code
+fix 😝 😝
+do not paint 😝
+remove unused imports
+improve exception message
+fix 😝 😝
+add 😝 to 😝
+fix npe in 😝
+fix failing test
+fix failing test
+fix possible npe
+remove unused method
+add 😝 to 😝
+fix javadoc errors
+recycle the bitmap
+fix bug in 😝
+remove unnecessary stub
+add setter to 😝
+fix checkstyle warning
+fix a bug in 😝
+fix 😝 😝
+replace 😝 with 😝
+remove 😝 from 😝
+add more logging to 😝
+remove unused code
+fix 😝 😝
+fix bug in 😝
+remove debug code
+fix 😝 generator
+fix a bug in 😝
+add more debug info
+add 😝 to 😝
+fix 😝 😝
+add javadoc for 😝
+fix potential race condition in 😝
+fix 😝 😝
+remove 😝 println
+disable 😝 by default
+fix a bug in 😝
+fix bug in 😝
+add 😝 to 😝
+fix javadoc warning
+fix npe in 😝
+fix potential npe
+fix potential deadlock
+add 😝 to 😝
+fix a typo in 😝
+remove unnecessary cast
+remove 😝 from 😝
+add a test for 😝
+fix npe in 😝
+fix typo in 😝
+fix typo in javadoc
+fix 😝 😝
+add 😝 method
+don t use cached 😝 for 😝
+fix javadoc typo
+remove 😝 from 😝
+fix 😝 😝
+add support for 😝
+hide empty 😝
+do not cache tests
+fix npe in 😝
+add tostring to 😝
+remove unused field
+remove unused imports
+fix npe in 😝
+remove duplicate 😝
+fix 😝 tests
+fix npe in 😝
+fix javadoc typo
+fix failing test
+fix 😝 😝
+don t show 😝 for 😝
+fix a bug in 😝
+remove unused variable
+fix a crash in 😝
+remove invalid assertion
+add 😝 to 😝
+fix 😝 😝
+fix location of 😝
+add a null check in 😝
+disable strict logging by default
+fix intellij warning
+fix typo in javadoc
+fix javadoc typo
+add test for 😝
+fix 😝 😝
+don t resolve anonymous g criteria
+add commandresult 😝
+remove dead code
+add 😝 to 😝
+remove unused constant
+add close method
+fix failing test
+fix some assertions
+don t trigger 😝 for 😝
+fix a bug in 😝
+remove unnecessary cast
+rename 😝 to 😝
+fix failing test
+fix 😝 😝
+fix 😝 getdrawable
+fix bug in 😝
+do not 😝 😝
+don t 😝 😝 if 😝 isn t changed
+fix failing tests
+fix possible npe
+add support for 😝
+fix npe in 😝
+fix bug in 😝
+don t free 😝
+remove unused import
+improve exception message
+do not add 😝 to 😝
+fix poi center
+fix error message
+remove unneeded 😝
+fix javadoc for 😝
+fix a bug in 😝
+fix a bug where 😝 😝 returns a 😝 statusbar
+remove 😝 from 😝
+improve error message
+fix checkstyle warning
+fix javadoc typo
+fix typo in javadoc
+fix failing tests
+fix 😝 😝
+add more documentation
+add more debug info
+remove system out
+remove useless warning suppression
+improved javadoc for 😝
+fix typo in javadoc
+fix 😝 error
+remove unused todo
+add 😝 method
+fix a problem with 😝 😝
+fix bug in 😝
+don t call 😝 when 😝
+don t reset zoom 😝 when 😝
+remove unused code
+fix potential npe
+fix typo in javadoc
+fix typo in javadoc
+remove unnecessary method
+add support for 😝
+add 😝 😝
+fix poi center
+add clear method to 😝
+add 😝 to 😝
+fix compilation error
+fix a bug where 😝 doesn t rotate 😝 tasks
+add getter for args
+remove dead code
+remove unnecessary register
+add more validation to 😝
+fix 😝 😝
+fix 😝 😝
+fix npe in 😝
+use more 😝 separator
+fix a bug in 😝
+add 😝 isadded
+fix bug in 😝
+fix 😝 😝
+fix potential npe
+remove system exit
+fix 😝 😝
+remove unnecessary call
+add missing license header
+adjusted internal classes to extend 😝
+fix typo in javadoc
+don t 😝 😝 😝
+fix test failure
+fix failing test
+fix a bug in 😝
+remove 😝 logging
+fix possible npe
+add support for 😝
+make 😝 serializable
+fix 😝 😝
+fix 😝 😝
+improved error message
+make 😝 public
+fix 😝 destroy
+don t show dialog if follow dialog is showing
+remove unused code
+do not create 😝 for 😝
+remove unused code
+fix bug in 😝
+fix failing test
+fix 😝 😝
+add 😝 to 😝
+add 😝 to 😝
+fix typo in comment
+add javadoc for 😝
+add 😝 to 😝
+don t use 😝 for 😝
+fix bug in 😝
+fix javadoc typos
+remove stale todos
+remove dead assignment
+remove unused imports
+add 😝 to 😝
+fix compile error
+add 😝 to imountservice
+remove unused code
+fix 😝 😝
+fix javadoc typo
+fix npe in 😝
+don t start 😝 😝
+replace loop with eofexception
+remove unused import
+remove system out
+add some comments
+remove unnecessary suppresswarnings
+fix 😝 test
+fix bug in 😝
+deprecate unused code
+add annotations to 😝
+fix bug in 😝
+remove system out
+add 😝 😝
+fix bug in 😝
+add tostring method to 😝
+remove system out println
+fix typo in comment
+smallfix fix a test
+add constructor to 😝
+fix npe in 😝
+remove unused constructor
+improved handling of 😝
+fix checkstyle issue
+add 😝 to 😝
+fix failing tests
+remove unused code
+remove unused field
+remove unused code
+allow 😝 to throw exception
+fix a warning
+fix a rebase issue
+fix classcastexception in 😝
+fix 😝 😝
+add 😝 method
+fix 😝 getname
+fix 😝 😝
+don t show zoom icon for non 😝
+remove unused code
+fix 😝 😝
+handle sqlexception thrown exception
+fix potential npe
+fix 😝 😝
+add null check
+add a new method to timeout
+add support for 😝
+add 😝 to 😝
+fix potential integer overflow
+remove unused imports
+add 😝 to 😝
+fix filter filter
+remove deprecated code
+fix 😝 😝
+add setposition setposition
+remove system out
+add info to 😝
+remove unused import
+fix icon name
+fix 😝 teardown
+add 😝 to 😝
+fix possible npe
+implement 😝 😝
+fix potential npe
+remove 😝 😝
+fix compilation errors
+fix failing tests
+fix 😝 destroy
+fix a typo
+fix potential npe
+don t overwrite 😝 😝
+fix 😝 😝
+remove obsolete method
+remove unneeded 😝
+fix failing test
+fix failing test
+fix a bug with 😝 😝
+fix failing test
+deprecate old methods
+fix 😝 tests
+add missing javadoc
+don t allow 😝 to install notifications
+fix 😝 😝
+add 😝 to 😝
+don t show 😝 when 😝
+remove unused import
+fix license header
+fix npe in 😝
+add exception if an exception is thrown
+remove unused code
+fix 😝 😝
+fix 😝 😝
+remove 😝 method
+fix a bug with 😝 😝
+fix stop stop stop
+fix bug in 😝
+improved log message
+fix potential npe
+fix javadoc typo
+don t show 😝 for 😝
+don t show fab on 😝
+fix 😝 😝
+remove unused code
+fix bug in 😝
+fix 😝 😝
+remove unused method
+smallfix remove explicit argument type in 😝
+remove 😝 😝
+fix a typo in tree
+add 😝 to 😝
+fix 😝 tests
+fix failing test
+remove unused constant
+fix arrayindexoutofboundsexception in 😝
+do not show 😝 content if it s not initialized
+fix license header
+fix a bug in 😝 😝
+remove trailing spaces
+fix bug in 😝
+add 😝 to 😝
+fix potential npe
+fix a bug in 😝
+remove stale comment
+fix compilation error
+fix potential npe
+remove unused import
+remove unused import
+fix a crash in 😝
+add 😝 method
+do not run sdk on startup
+add title to 😝
+fix poi center
+remove unused code
+fix a bug where notifications doesn t rotate 😝
+remove unused constructor
+remove unused import
+fix potential npe
+fix some typos
+remove dead code
+remove unnecessary call
+fix checkstyle warning
+fix test cases
+add missing javadoc
+fix compilation error
+remove unused method
+fix 😝 😝
+remove unused imports
+fix compilation errors
+fix a bug in 😝
+remove debug code
+fix bug in 😝
+make setadapter public
+fix 😝 😝
+add 😝 to 😝
+remove 😝 break
+add null check
+add serialversionuid to 😝
+add 😝 to 😝
+make 😝 serializable
+add a todo comment
+fix failing test
+remove unused method
+fix typo in javadoc
+don t cache 😝 😝
+remove stale todo
+add serviceutils 😝
+add tostring method
+add 😝 mean
+fix failing test
+fix 😝 😝
+add new 😝 methods
+fix potential npe
+fix 😝 😝 images
+fix crash in 😝
+fix 😝 😝
+remove 😝 from 😝
+fix potential deadlock in 😝
+fix 😝 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a compilation error
+fix possible npe
+fix failing test
+fix 😝 😝
+remove unnecessary cast
+fix npe in 😝
+add a test for 😝
+make 😝 static
+fix compile error
+fix 😝 😝
+don t overwrite 😝 😝
+fix 😝 😝
+remove 😝 flag
+add 😝 to camera
+fix 😝 😝
+add test for 😝
+fix checkstyle error
+make 😝 😝 protected
+add 😝 to 😝
+add support for 😝
+remove unused code
+remove unused code
+smallfix fix javadoc
+add license headers
+do not break unneeded
+do not create maven modules for modules
+don t show 😝 when 😝 tasks
+remove unnecessary 😝 call
+fix failing test
+remove unnecessary whitespace
+remove 😝 todo
+fix failing test
+moved 😝 to 😝
+add 😝 to 😝
+suppress unchecked warning
+remove unused constant
+fix cs error
+fix unit test
+add missing test annotations
+fix future sequence
+add setsize for setsize
+fix a comment
+fix broken test
+fix failing test
+fix failing tests
+fix memory leak
+add 😝 to 😝
+add missing annotation
+add getter for 😝
