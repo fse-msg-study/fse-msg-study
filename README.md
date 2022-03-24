@@ -1,6 +1,12 @@
 # Revisiting Learning-based Commit Message Generation  
 
-This is the replication package for "Revisiting Learning-based Commit Message Generation". We provide the scripts to reproduce all the results of the paper.
+This is the replication package for "Revisiting Learning-based Commit Message Generation". We provide the data and scripts to reproduce all the results of the paper. The contents of each folder are as follows.
+
++ `CommitMessages` contains the commit messages used and analyzed in each RQ, which will be introduced carefully in Section 2.
++ `Patterns` contains the tool and scripts to obtain the frequent patterns, which will be introduced carefully in Section 3.
++ `Scripts` contains the scripts to reproduce the results of this paper, which analyze the commit messages in the folder `CommitMessages`. The scripts will be introduced carefully in Section 4.
++ `DataSet` contains the benchmark used in this paper.
++ `Examples` contains the examples of each pattern.
 
 ## 1 Preparation
 
@@ -70,7 +76,7 @@ The detailed description of each pattern is as follows.
 
 ## 4 Reproduction 
 
-In this section, we show the scripts and steps to reproduce the results present in the paper. We name the scripts to get the Table ***X***/Figure ***X*** presented in RQ ***Y*** of the paper as  `get_rqY_tableX.py`/`get_rqY_figureX.py`, which is placed in the folder `Scripts`. For example, the Figure 5 is presented in RQ2, so the script to get it is `get_rq2_table5.py`.  Switch to the directory  `Scripts`, you can run each script to get the corresponding table/figure, which will be saved in `Scripts/TablesAndFigures/rqY_tableX.tex` or `Scripts/TablesAndFigures/rqY_figureX.png`.  The table is in the format of *latex*, and can be compiled to *pdf*, and the package *multirow* and *booktabs* are needed for compilation.
+In this section, we show the scripts and steps to reproduce the results present in the paper, which analyze the commit messages in the folder `CommitMessages`. We name the scripts to get the Table ***X***/Figure ***X*** presented in RQ ***Y*** of the paper as  `get_rqY_tableX.py`/`get_rqY_figureX.py`, which is placed in the folder `Scripts`. For example, the Figure 5 is presented in RQ2, so the script to get it is `get_rq2_table5.py`.  Switch to the directory  `Scripts`, you can run each script to get the corresponding table/figure, which will be saved in `Scripts/TablesAndFigures/rqY_tableX.tex` or `Scripts/TablesAndFigures/rqY_figureX.png`.  The table is in the format of *latex*, and can be compiled to *pdf*, and the package *multirow* and *booktabs* are needed for compilation.
 
 ```shell
 $ python get_rqY_tableX.py
