@@ -54,19 +54,19 @@ The detailed description of each pattern is as follows.
 
 + **Addition Pattern**. The commit message is used when a new element is added or certain missing element is added. We give a real example of  Addition Pattern in the following image.
 
-  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_add.png?raw=true" style="zoom:50%;" />
+  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_add.png?raw=true" style="zoom: 33%;" />
 
 + **Removal Pattern**. The commit message is used when the commit removes redundant elements (e.g., code, imports, and methods) in code changes. We give a real example of  Removal Pattern in the following image.
 
-  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_remove.png?raw=true" style="zoom:50%;" />
+  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_remove.png?raw=true" style="zoom: 33%;" />
 
 + **Fix Pattern**.  The commit message is used when the commit fixes some bugs. We give a real example of  Fix Pattern in the following image.
 
-  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_fix.png?raw=true" style="zoom:50%;" />
+  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_fix.png?raw=true" style="zoom: 33%;" />
 
 + **Avoidance Pattern**.  The commit message is used when developers made some mistakes, and the commit message states not to do that and usually uses an adverbial clause to state the circumstance. We give a real example of  Avoidance Pattern in the following image.
 
-  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_avoid.png?raw=true" style="zoom:50%;" />
+  <img src="https://github.com/fse-msg-study/fse-msg-study/blob/main/Examples/example_avoid.png?raw=true" style="zoom: 33%;" />
 
 ## 4 Reproduction 
 
