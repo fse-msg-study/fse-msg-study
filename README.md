@@ -6,6 +6,7 @@ This is the replication package for "Revisiting Learning-based Commit Message Ge
 + `Patterns` contains the tool and scripts to obtain the frequent patterns, which will be introduced carefully in Section 3.
 + `Scripts` contains the scripts to reproduce the results of this paper, which analyze the commit messages in the folder `CommitMessages`. The scripts will be introduced carefully in Section 4.
 + `DataSet` contains the benchmark used in this paper.
++ `Models` contains the implementation of models studied in this paper.
 + `Examples` contains the examples of each pattern.
 
 ## 1 Preparation
