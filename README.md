@@ -91,7 +91,7 @@ In the beginning, the pattern mining algorithm returns some raw patterns, and we
 
 (22)(33) --> (37)add [missing] ...
 
-(26)(35) --> (38)don't|do not
+(26)(35) --> (38)don't|do not ...
 
 #### Third iteration:
 
@@ -105,7 +105,7 @@ In the beginning, the pattern mining algorithm returns some raw patterns, and we
 
 
 
-(39)(40)(41)(42) are the final **Addition Pattern**, **Removal Pattern**, **Fix Pattern**, and **Avoidance Pattern** respectively.
+(39)(40)(41)(42) are the final  **Fix Pattern**, **Removal Pattern**, **Addition Pattern**, and **Avoidance Pattern** respectively.
 
 ### 3.3 Introduction to Each Pattern
 
