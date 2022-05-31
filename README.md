@@ -55,47 +55,57 @@ In the beginning, the pattern mining algorithm returns some raw patterns, and we
 
 #### Raw patterns:
 
-(1)add javadoc	（2)add a	**(3)add missing**	**(4)add to**	**(5)add for**
+(1)fix checkstyle	(2)fix crash	(3)fix error	(4)fix failing test
 
-(6)remove unused 	(7)remove unused code 	(8)remove unnecessary 	(9)remove unnecessary code
+(5)fix javadoc	(6)fix potential npe	(7)fix quality	(8)fix test	(9)fix unit test
 
-(10)fix checkstyle	(11)fix crash	(12)fix error	(13)fix failing test
+(10)fix bug in ...	(11)fix a bug in ... 	(12)fix typo in ... 	(13)fix npe in ... 	(14)fix ... in javadoc	
 
-(14)fix javadoc	(15)fix potential npe	(16)fix quality	(17)fix test	(18)fix unit test
+(15)fix ... when ...
 
-(19)fix bug in	(20)fix a bug in	(21)fix typo in	(22)fix npe in 	(23)fix in javadoc	
+(16)remove unused ... 	(17)remove unused code 	(18)remove unnecessary ...	(19)remove unnecessary code
 
-**(24)fix when**
+(20)add javadoc	（21)add a ...	(22)add missing ...	(23)add ... to ... 	(24)add ... for ...
 
-(25)don't	**(26)do not**	(27)don't show	**(28)don't if**
+(25)don't ... (26)do not ...	(27)don't show ...	(28)don't ... if ...
 
 #### First iteration:
 
-(1)(2) --> **(29)add ...**
+(1-9) --> (29)fix ...
 
-(6)(7) --> **(30)remove unused ...**
+(10-14) --> (30)fix ... in ...
 
-(8)(9) --> **(31)remove unnecessary ...**
+(16)(17) --> (31)remove unused ...
 
-(10-18) --> **(32)fix ...**
+(18)(19) --> (32)remove unnecessary ...
 
-(19-23) --> **(33)fix ... in ...**
+(20)(21) --> (33)add ...
 
-(25)(27) --> **(34)don't ...**
+(23)(24) --> (34)add ... for|to ...
+
+(25)(27) --> (35)don't ...
 
 #### Second iteration:
 
-(3)(4)(5)(29) --> **(35)add [missing] ... [for|to ...]**
+(15)(30) --> (36)fix ... in|when ...
 
-(30)(31) --> **(36)remove unused|unnecessary ...**
+(22)(33) --> (37)add [missing] ...
 
-(24)(32)(33) --> **(37)fix ... [in|when ...]** 
+(26)(35) --> (38)don't|do not
 
-(26)(28)(34) --> **(38)don't|do not ... [if...]**
+#### Third iteration:
+
+(29)(36) --> **(39)fix ... [in|when ...]** 
+
+(31)(32) --> **(40)remove unused|unnecessary ...**
+
+(34)(37) --> **(41)add [missing] ... [for|to ...]**
+
+(28)(38) --> **(42)don't|do not ... [if...]**
 
 
 
-(35)(36)(37)(38) are the final **Addition Pattern**, **Removal Pattern**, **Fix Pattern**, and **Avoidance Pattern** respectively.
+(39)(40)(41)(42) are the final **Addition Pattern**, **Removal Pattern**, **Fix Pattern**, and **Avoidance Pattern** respectively.
 
 ### 3.3 Introduction to Each Pattern
 
